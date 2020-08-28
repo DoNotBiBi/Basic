@@ -3,4 +3,5 @@ import numpy as np
 img=cv.imread('1.png',cv.IMREAD_COLOR)
 cv.imshow('image', img)
 cv.waitKey(0) 
+## 测试注释
 cv.destroyAllWindows()
