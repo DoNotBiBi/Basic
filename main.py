@@ -48,7 +48,8 @@ from ParseJSON import *
 from Threading import *
 from Time import *
 from Threading import *
-
+import cv2 as cv
+import numpy as np
 
 def print_keywords():
     print(keyword.kwlist)
@@ -141,4 +142,8 @@ if __name__ == '__main__':
     #     raise MyError(2 * 2)
     # except MyError as e:
     #     print('My exception occurred, value:', e.value)
-    print("HELOlll wangkang 大哥")
+    img = cv.imread('1.png', cv.IMREAD_COLOR)
+    cv.imshow('image', img)
+    cv.waitKey(0)
+    ## 测试注释
+    cv.destroyAllWindows()
