@@ -31,15 +31,16 @@ def db_Test():
     except:
         print("Error: unable to fetch data")
 
-    # 增删改 属于操作
-    # 事务应该具有4个属性：原子性、一致性、隔离性、持久性。这四个属性通常称为ACID特性。
-    # try:
-    #     # 执行sql语句
-    #     cursor.execute(sql)   # sql为增删改语句
-    #     # 执行sql语句
-    #     db.commit()
-    # except:
-    #     # 发生错误时回滚
-    #     db.rollback()
-    # 关闭数据库连接
+
     db.close()
+# 增删改 属于操作
+# 事务应该具有4个属性：原子性、一致性、隔离性、持久性。这四个属性通常称为ACID特性。
+# try:
+#     # 执行sql语句
+#     cursor.execute(sql)   # sql为增删改语句
+#     # 执行sql语句
+#     db.commit()
+# except:
+#     # 发生错误时回滚
+#     db.rollback()
+# 关闭数据库连接

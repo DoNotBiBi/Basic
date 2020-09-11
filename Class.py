@@ -18,7 +18,7 @@
 # def __add__(self, other):
 #     return Vector(self.a + other.a, self.b + other.b)
 # def __str__(self):
-#     return 'Vector (%d, %d)' % (self.a, self.b)
+#     return 'Vector (a, b)' .format (a=self.a, b=self.b)
 
 # Definition for singly-linked list.
 class ListNode:
