@@ -39,7 +39,7 @@ def pjson_read():
 
 def pjson_write():
     data = {
-        'name': 'tianzhongli',
+        'name': 'heqing',
         'age': 1,
         'gender': 'male'
     }

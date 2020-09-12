@@ -26,8 +26,7 @@
 # 来转换为列表
 # 8
 # radiansdict.setdefault(key, default=None)
-# 和get()
-# 类似, 但如果键不存在于字典中，将会添加键并将值设为default
+# 和get()类似, 但如果键不存在于字典中，将会添加键并将值设为default
 # 9
 # radiansdict.update(dict2)
 # 把字典dict2的键 / 值对更新到dict里
@@ -46,9 +45,7 @@
 # 随机返回并删除字典中的最后一对键和值。
 
 def dic_test():
-    d = {}
-    d['one'] = "1 - 菜鸟教程"
-    d[2] = "2 - 菜鸟工具"
+    d = {'one': "1 - 菜鸟教程", 2: "2 - 菜鸟工具"}
 
     tinydict = {'name': 'runoob',
                 'code': 1,
@@ -61,7 +58,7 @@ def dic_test():
     print(tinydict.keys())  # 输出所有键
     print(tinydict.values())  # 输出所有值
 
-    b = {x: x ** 2 for x in (2, 4, 6)}
+    b = {x: x ** 2 for x in (2, 4, 6)}  # lambda表达式
     print(b)
     print(len(b))
     b.clear()

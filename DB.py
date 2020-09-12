@@ -14,22 +14,22 @@ import pymysql
 # ProgrammingError	程序错误，例如数据表（table）没找到或已存在、SQL语句语法错误、 参数数量错误等等。必须是DatabaseError的子类。
 # NotSupportedError	不支持错误，指使用了数据库不支持的函数或API等。例如在连接对象上 使用.rollback()函数，
 #                   然而数据库并不支持事务或者事务已关闭。 必须是DatabaseError的子类。
-def db_Test():
+def DB_Test():
     # 打开数据库连接
     db = pymysql.connect("localhost", "root", "newlife1994", "test")
 
     # 使用 cursor() 方法创建一个游标对象 cursor
     cursor = db.cursor()
 
-    sql = "select * from stu_info"
+    sql = "select * from user_info"
     # 使用 execute()  方法执行 SQL 查询
     try:
         cursor.execute(sql)
         results = cursor.fetchall()
         for row in results:
-            print("id={0},name={1},row={2}".format(row[0], row[1], row[2]))
-    except:
-        print("Error: unable to fetch data")
+            print(f"id={row[0]},name={row[1]},age={row[2]}")
+    except :
+        print(f"Error: unable to fetch data")
 
 
     db.close()

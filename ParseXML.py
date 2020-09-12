@@ -1,4 +1,3 @@
-from xml.dom.minidom import parse
 import xml.dom.minidom
 
 # getElementsByTagName(xxx) 返回的是一个二维list

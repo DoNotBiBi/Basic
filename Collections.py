@@ -33,7 +33,7 @@ def deque_test():
     print(queue)
     queue.popleft()
     print(queue)
-    queue.pop()
+    queue.pop() # 默认是右边出
     print(queue)
 
 
@@ -42,5 +42,8 @@ def counter_test():
     wordList = ["a", "b", "c", "c", "a", "a"]
     for word in wordList:
         cnt[word] += 1
-    print(cnt)
+    print(cnt.most_common(2)) # 最多显示两个
+    print(cnt.keys()) # 显示键
+    print(cnt.values()) # 显示值
+    print("".join(cnt.elements())) # 显示字符串
 

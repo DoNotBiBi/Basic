@@ -37,10 +37,9 @@
 
 # 打开一个txt文件 读一行 readline()或read 读多行 readlines() 返回的是一个list每个元素加上\n
 def read_txt(name):
-    f = open(name, "r", encoding='utf-8')
-    f_str = f.readlines()
-    print(f_str)
-    f.close()
+    with open(name, "r", encoding='utf-8') as f:
+        f_str = f.readlines()
+        print(f_str)
 
 
 # 一行一行的读取文件
@@ -53,6 +52,6 @@ def read_txt2(name):
 
 # 写入一个txt 必须写入的是字符串 若不是则需要转换
 def write_txt(name):
-    f = open(name, "w", encoding='utf-8')
-    f.write("hello 我是王康")  # 返回的是写入字节的个数
-    f.close()
+    with open(name, "a+", encoding='utf-8') as f:
+        f.write("\nhello 我是王康")  # 返回的是写入字节的个数
+

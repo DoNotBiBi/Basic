@@ -24,9 +24,9 @@ def list_test():
     l = ['abcd', 786, 2.23, 'ru', 70.2]
     tinylist = [123, 'ru']
 
-    print(l)  # 输出完整列表
+    print("1.",l)  # 输出完整列表
     print(l[0])  # 输出列表第一个元素
-    print(l[1:3])  # 从第二个开始输出到第三个元素 默认第三个元素为0
+    print(l[1:3])  # 从第二个开始输出到第三个元素
     print(l[2:])  # 输出从第三个元素开始的所有元素
     print(tinylist * 2)  # 输出两次列表
     print(l + tinylist)  # 连接列表
@@ -55,4 +55,8 @@ def list_test():
     l2 = [2, 5, 1, 7, 3, 9]
     l2.sort(key=None, reverse=True)  # reverse=False是升序（默认状态） True是逆序
     print(l2)
+
+    l3 = [2, 5, 1, 7, 3, 9]
+    l3.sort()
+    print(l3)
     

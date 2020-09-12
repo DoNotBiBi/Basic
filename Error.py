@@ -8,9 +8,9 @@
 
 # 抛出异常
 def test():
-    x = 10
+    x = 3
     if x > 5:
-        raise Exception('x 不能大于 5。x 的值为: {}'.format(x))
+        raise Exception(f'x 不能大于 5。x 的值为: {x}')
 
 
 def error_test():
@@ -34,3 +34,8 @@ class MyError(Exception):
 
     def __str__(self):
         return repr(self.value)
+
+    # try:
+    #     raise MyError(2 * 2)
+    # except MyError as e:
+    #     print('My exception occurred, value:', e.value)

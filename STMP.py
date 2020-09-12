@@ -1,20 +1,19 @@
-#!/usr/bin/python3
-# 有问题
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
 import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
-
-
 def stmp_test():
-    # 第三方 SMTP 服务
-    sender = 'wk_ang@qq.com'
-    receivers = ['341776450@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
+# 第三方 SMTP 服务
+    mail_host = "smtp.qq.com"  # 设置服务器
+    mail_user = "wangkang"  # 用户名
+    mail_pass = "jtarkjsyjqjibjic"  # 口令
 
-    mail_msg = """
-    <p>Python 邮件发送测试...</p>
-    <p><a href="http://www.runoob.com">这是一个链接</a></p>
-    """
-    message = MIMEText(mail_msg, 'html', 'utf-8')
+    sender = '341776450@qq.com'
+    receivers = ['3099296568@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
+
+    message = MIMEText('Python 邮件发送测试...', 'plain', 'utf-8')
     message['From'] = Header("菜鸟教程", 'utf-8')
     message['To'] = Header("测试", 'utf-8')
 
@@ -23,7 +22,10 @@ def stmp_test():
 
     try:
         smtpObj = smtplib.SMTP()
+        smtpObj.connect(mail_host, 25)  # 25 为 SMTP 端口号
+        smtpObj.login(mail_user, mail_pass)
         smtpObj.sendmail(sender, receivers, message.as_string())
         print("邮件发送成功")
-    except smtplib.SMTPException:
-        print("Error: 无法发送邮件")
+
+    except smtplib.SMTPException as error:
+        print(error)
