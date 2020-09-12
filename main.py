@@ -21,5 +21,5 @@ from Threading import *
 import queue
 from Base import *
 if __name__ == '__main__':
-    stmp_test()
+    stmp_test() ##
 
