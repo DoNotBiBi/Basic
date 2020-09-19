@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-
+# todo:
+#   1.此处是有问题的
 import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
