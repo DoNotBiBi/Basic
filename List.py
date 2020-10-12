@@ -24,7 +24,7 @@ def list_test():
     l = ['abcd', 786, 2.23, 'ru', 70.2]
     tinylist = [123, 'ru']
 
-    print("1.",l)  # 输出完整列表
+    print("1.", l)  # 输出完整列表
     print(l[0])  # 输出列表第一个元素
     print(l[1:3])  # 从第二个开始输出到第三个元素
     print(l[2:])  # 输出从第三个元素开始的所有元素
@@ -58,5 +58,6 @@ def list_test():
 
     l3 = [2, 5, 1, 7, 3, 9]
     l3.sort()
+    l4 = l3.copy()
     print(l3)
-    
+    print(l4)

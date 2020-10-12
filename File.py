@@ -55,3 +55,45 @@ def write_txt(name):
     with open(name, "a+", encoding='utf-8') as f:
         f.write("\nhello 我是王康")  # 返回的是写入字节的个数
 
+
+#
+import os
+
+
+# todo:
+#   学习第八章
+# os.getcwd() 获取当前的环境
+# os.chdir() 更改当前的环境
+#
+def test_os():
+    os.makedirs("./hello.txt")  # 创建文件夹
+
+
+# 以二进制的方式保存文件 和 读取文件
+import shelve
+
+
+def test_shelve_write():
+    shelveFile = shelve.open("test3")
+    cats = ['hello', 'wangkang', 'come on ']
+    shelveFile['cats'] = cats
+    shelveFile.close()
+
+
+def test_shelve_open():
+    shelveFile = shelve.open("test3")
+    print(type(shelveFile))
+    print(shelveFile['cats'])
+    shelveFile.close()
+
+
+import pprint
+
+
+# 漂亮打印
+def test_pprint():
+    cats = [{'name': 'wangkang', 'age': 25}, {'name': 'xiaowang', 'age': 15}]
+    pprint.pformat(cats)
+    fileObj = open('mycats.py', 'w')
+    fileObj.write('person:' + pprint.pformat(cats) + '\n')
+    fileObj.close()

@@ -206,3 +206,8 @@ def print_string_test():
 # f-string python3.6之后的格式
 def print_hi(name):
     print(f'Hi, {name}')
+    print('''
+    hello
+    hello wangkang
+    ''')
+
