@@ -60,8 +60,6 @@ def write_txt(name):
 import os
 
 
-# todo:
-#   学习第八章
 # os.getcwd() 获取当前的环境
 # os.chdir() 更改当前的环境
 #

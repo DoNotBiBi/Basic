@@ -1,6 +1,5 @@
-
-
-from File2 import *
+from RE import *
 if __name__ == '__main__':
-    test_zipfile_create()
+    test()
+
 
