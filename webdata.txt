@@ -1,0 +1,2132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <base target="_blank" />
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+    <meta name="description" content="人民网，是世界十大报纸之一《人民日报》建设的以新闻为主的大型网上信息发布平台，也是互联网上最大的中文和多语种新闻网站之一。作为国家重点新闻网站，人民网以新闻报道的权威性、及时性、多样性和评论性为特色，在网民中树立起了“权威媒体、大众网站”的形象。" />
+	<meta name="keywords" content="人民网,人民日报,中国共产党新闻,新闻中心,时政,社会,地方,地方领导,经济,能源环保,跨国公司,新农村,教育,科技,文化,饮食,娱乐,旅游,游戏,短信,彩信,资料,人民电视,图片,直播,访谈,观点,理论,传媒,国际军事,台湾,港澳,汽车,房产,IT,家电,开发区,百强县,体育,奥运,彩票,健康,男士,生活,天气,光盘,数据,强国论坛,强国博客,人民微博" />
+	<meta name="filetype" content="1">
+	<meta name="publishedtype" content="1">
+	<meta name="pagetype" content="2">
+	<meta name="catalogs" content="1">
+	<meta name="uctk" content="enabled">
+    <meta name="renderer" content="webkit" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="360-site-verification" content="4a66591747e25d39ff176dc64c9a31c6" />
+    <meta name="msvalidate.01" content="CE4864A975E63A6017D0933DA4923B15" />
+    <title>人民网_网上的人民日报</title>
+    <link rel="stylesheet" href="http://www.people.com.cn/img/2016people/default.css" type="text/css" /> 
+<style type="text/css">
+header .sub_nav_bottom .sub_nav_list{ width:790px;}
+header .sub_nav_bottom .sub_nav_list li{ width:790px;}
+header .sub_nav_bottom .sub_nav_list li.one a{margin:0; padding:0 23px 0 23px;}
+header .sub_nav_bottom .sub_nav_list li.two a{margin:0; padding:0 16px 0 16px;}
+header .sub_nav_bottom .sub_nav_list li.thr a{margin:0; padding:0 20px 0 20px;}
+nav .nav_custom .navstatus { top:20px;}
+nav .nav_custom { height:245px; padding-top:50px;}
+nav .w1000 span{display:inline-block}
+nav .nav_custom em{width:28px;margin:8px 14px 2px 9pt;background:none}
+nav .nav_custom em a{color:#333;margin:0}
+.cont_a .main .main_icon2{background:url(/img/2016people/images/wangluo.jpg) no-repeat;}
+.cont_a .main .main_icon2 a{ display:block; width:62px; height:18px;}
+span.icon_dlfj {display:inline-block;width:107px;height:30px;background:url(/img/2016people/images/dlfjdwn.jpg) no-repeat;vertical-align:middle;margin-top:-3px;margin-right:3px;}
+span.icon_dlfj a{display:inline-block;width:107px;height:30px;}
+span.icon_laixin {display:inline-block;width:70px;height:30px;background:url(/img/2016people/images/tubiao/aq_laixin.jpg) no-repeat;vertical-align:middle;margin-right:3px;}
+span.icon_laixin a{display:inline-block;width:70px;height:30px;}
+.cont_a .main .main_iconRed{background:url(/img/2016people/images/toutiaoRed.png) no-repeat;}
+.cont_a .main .main_icon1Red{background:url(/img/2016people/images/yaolunRed.png) no-repeat;}
+span.icon_fd {display:inline-block;width:83px;height:38px;background:url(/img/2016people/images/tubiao/fendou.png) no-repeat;vertical-align:middle;margin-right:3px; background-size:contain;}
+span.icon_70wen {display:inline-block;width:83px;height:28px;background:url(/img/2016people/images/tubiao/70wen.png) no-repeat;vertical-align:middle;margin-right:3px; background-size:contain;}
+span.icon_fd a{display:inline-block;width:83px;height:38px;}
+.main span.tb_gaige{background:url(/img/2016people/images/tubiao/gaige.png) no-repeat; background-size:contain; width:63px; height:24px; display:block; float:left;}
+.main span.tb_gaige5{background:url(/img/2016people/images/tubiao/gaige51.png) no-repeat; background-size:contain; width:155px; height:24px; display:block; float:left;}
+.main span.tb_gaige5 a{ display:block; width:100%; height:100%;}
+span.tb_bwcx {display:inline-block;width:77px;height:36px;background:url(/img/2016people/images/tubiao/tb_bwcx.png) no-repeat;vertical-align:middle;background-size:contain;}
+span.icon_yqgd{display:inline-block;width:85px;height:30px;background:url(/img/2019peopleindex/images/tubiao/yqgd.png) no-repeat;vertical-align:middle;margin-right:3px;}
+span.icon_yqgd a{display:inline-block;width:85px;height:30px;}
+span.icon_dflh{display:inline-block;width:96px;height:25px;background:url(/img/2019peopleindex/images/tubiao/lg_dflh.png) no-repeat;vertical-align:middle;margin-right:3px;}
+span.icon_dflh a{display:inline-block;width:96px;height:25px;}
+span.icon_toutiao{display:inline-block;width:97px;height:26px;background:url(/img/2019peopleindex/images/tubiao/lg_tt.png) no-repeat;vertical-align:middle;margin-right:3px;}
+span.icon_toutiao a{display:inline-block;width:97px;height:26px;}
+span.icon_wanglian{display:inline-block;width:82px;height:22px;background:url(/img/2019peopleindex/images/tubiao/lg_wlzg.png) no-repeat;vertical-align:middle;margin-right:3px;}
+span.icon_wanglian a{display:inline-block;width:82px;height:22px;}
+span.icon_wangping{display:inline-block;width:66px;height:22px;background:url(/img/2019peopleindex/images/tubiao/lg_wp.png) no-repeat;vertical-align:middle;margin-right:3px;}
+span.icon_wangping a{display:inline-block;width:66px;height:22px;}
+span.icon_yaolun{display:inline-block;width:97px;height:26px;background:url(/img/2019peopleindex/images/tubiao/lg_yl.png) no-repeat;vertical-align:middle;margin-right:3px;}
+span.icon_yaolun a{display:inline-block;width:97px;height:26px;}
+span.icon_zhiji{display:inline-block;width:66px;height:22px;background:url(/img/2019peopleindex/images/tubiao/lg_zj.png) no-repeat;vertical-align:middle;margin-right:3px;}
+span.icon_zhiji a{display:inline-block;width:66px;height:22px;}
+span.icon_xczjc {display:inline-block;width:83px;height:21px;background:url(/img/2019peopleindex/images/tubiao/lg_zjc.png) no-repeat;vertical-align:middle;margin-top:-3px;margin-right:3px;}
+span.icon_xczjc a{display:inline-block;width:83px;height:21px;}
+span.icon_zhizhi{display:inline-block;width:60px;height:28px;background:url(/img/2019peopleindex/images/tubiao/lg_zzzz.png) no-repeat;vertical-align:middle;margin-right:3px;}
+span.icon_zhizhi a{display:inline-block;width:60px;height:28px;}
+span.icon_daibiao{display:inline-block;width:60px;height:30px;background:url(/img/2019peopleindex/images/tubiao/lg_dbwy.png) no-repeat;vertical-align:middle;margin-right:3px;}
+span.icon_daibiao a{display:inline-block;width:60px;height:30px;}
+span.icon_lhshiwen{display:inline-block;width:97px;height:27px;background:url(/img/2019peopleindex/images/tubiao/lg_lh10w.png) no-repeat;vertical-align:middle;margin-right:3px;}
+span.icon_lhshiwen a{display:inline-block;width:97px;height:27px;}
+</style>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016people/jslibs/jquery-1.7.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016people/jslibs/jquery.jcarousellite-1.0.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016people/jslibs/peopleindex.js' charset='utf-8'></script>
+<script src="http://www.people.com.cn/img/2019peopleindex/js/slide20200520.js" charset='utf-8'></script>  
+<script>  
+  function playVideo (id) {
+	  // 找到最近的名为tvplayshow播放窗口
+	  var event = event || window.event
+	  var target = event.target || event.srcElement
+	  var box = $(target).parents('.focus')[0]
+	  var videoBox = box.querySelector('.tvplayshow')
+	  var mainSlide = slideBoxList[box.querySelector('.people-slide').getAttribute('boxindex')]
+	  // 显示
+	  videoBox.style.display = 'block'
+	  // 停止自动轮播
+	  if (mainSlide) mainSlide.stopAutoPlay()
+	  mainSlide.isBusy = true
+	  showPlayerBox({
+		id: id,
+		width: 655,
+		height: 415,
+		// 播放视频的盒子
+		box: videoBox.querySelector('.video-play')
+	  });
+	}
+	function stopVideoPlay () {
+	  // 找到最近的名为tvplayshow播放窗口
+	  var event = event || window.event
+	  var target = event.target || event.srcElement
+	  var box = $(target).parents('.focus')[0]
+	  var videoBox = box.querySelector('.tvplayshow')
+	  var mainSlide = slideBoxList[box.querySelector('.people-slide').getAttribute('boxindex')]
+	  // 显示
+	  videoBox.style.display = 'none'
+	  videoBox.querySelector('.video-play').innerHTML = ''
+	  mainSlide.isBusy = false
+	  // 开启自动轮播
+	  if (mainSlide) mainSlide.startAutoPlay(3000)
+	}
+  $(document).ready(function() {
+	  $('.cont_h').custom({
+		defaultd:'19,4,3,5,8,12,32,14,11,1,2,6,7,9,10,13,15,16,17,18,20,21,22,23,24,25,26,27,28,29,30,31,33,34'
+	  });
+	  // 加载轮播图
+	  mainSlide = new Slide($("#focus_list")[0], 'ul', 'li', {
+		// 自动播放间隔
+		autoPlay:4000,
+		// 切换下一个轮播图的class或ID
+		nextEl: ".focus_right_b",
+		// 切换上一个轮播图的class或ID
+		prevEl: ".focus_left_b",
+		// 数字分页器
+		numberPaginationEL: ".focusn",
+	  })
+	  if($(".banner5").height() > 0){
+		$('.cont_h').css("height","1400px");
+	  }
+	  else{
+		$('.cont_h').css("height","1280px"); 
+	  }
+  });
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+   (function() {
+     if (!
+     /*@cc_on!@*/
+     0) return;
+     var e = "abbr, article, aside, audio, canvas, datalist, details, dialog, eventsource, figure, footer, header, hgroup, mark, menu, meter, nav, output, progress, section, time, video".split(', ');
+     var i= e.length;
+     while (i--){
+         document.createElement(e[i])
+     }
+})()
+   -->
+</script>
+
+<style type="text/css">
+.bannerTop{margin:5px auto 25px;}
+
+</style>
+<style type="text/css">
+/*20171026*/
+.newsTop{width:1000px;height:90px;margin:10px auto; height:auto;}
+/*20171103*/
+.cont_a .main{ width:330px; margin-left:0px; padding-left:15px;}
+.cont_a .main h2{ width:315px; margin-left:15px;}
+.cont_a .main ul {
+    display: block;
+    width: 315px;
+    margin-left: 15px;
+}
+.news_shijiuda_box{
+	background: #fffbee;
+	padding-bottom: 5px;
+}
+.news_shijiuda_box li{
+	font-size: 14px;
+    font-family: SimSun;
+    height: 24px;
+    line-height: 31px;
+    padding: 0px 0px 14px;
+    overflow: hidden;
+	padding-bottom:6px;
+	padding-left: 15px;
+	_padding-left: 0px;
+	*padding-left: 0px;
+}
+.news_shijiuda_box li.tit{
+	padding-left: 0px;
+	letter-spacing: -1px;
+}
+.news_shijiuda_box li a:link,.news_shijiuda_box li a:hover,.news_shijiuda_box li a:visited{
+	color:#b01812;
+}
+.news_shijiuda_box a.sjdlink{
+	display:inline-block;
+	width:116px;
+	height:32px;
+	background:url(/img/2016people/images/20171012/linghang3.jpg) no-repeat top left;
+	float:left;
+}
+.news_shijiuda_con ul.list14 {
+    padding-bottom: 5px;
+}
+.news_shijiuda_con ul.list14 li {
+    padding-bottom: 6px;
+}
+/*20180117*/
+.cont_language .city_list a{
+  margin:0 5px 0 6px;
+}
+/*20180720*/
+#rmw_hotnew li,#rmw_like li,#rmw_zhuanti li{
+  padding: 0px 0 14px 0;
+  height: 19px;
+  overflow: hidden;
+  line-height: 31px;
+}
+.cont_f div.fr div.title {
+  margin-top: 0px;
+  padding: 0 0 0px 0;
+}
+#rmw_hotnew,#rmw_like {
+  height: 165px;
+  overflow: hidden;
+}
+/*20180725*/
+.cont_a .main .djbl_icon {
+    display: inline-block;
+    width: 130px;
+    height: 38px;
+    background: url(/img/2016people/images/djIcon1.jpg) no-repeat;
+    vertical-align: middle;
+    margin-right: 3px;
+}
+.cont_a .main .djbl_icon a {
+    display: inline-block;
+    width: 130px;
+    height: 38px;
+}
+/*20180815*/
+.cont_a .main .ydyl5_icon {
+    display: inline-block;
+    width: 116px;
+    height: 34px;
+    background: url(/img/2016people/images/ydyl-Icon.jpg) no-repeat;
+    vertical-align: middle;
+    margin-right: 3px;
+}
+.cont_a .main .ydyl5_icon a {
+    display: inline-block;
+    width: 116px;
+    height: 34px;
+}
+/*updata:20180927*/
+nav .nav_custom {height:85px;padding-top:15px;padding-left:25px;width:975px;}
+nav .nav_custom em{margin:6px 0px 2px 0px;padding:3px 10px;}
+/*updata:20181029*/
+#rmw_hotnew,#rmw_like {
+  height: 150px;
+  overflow: hidden;
+}
+#rmw_hotnew li,#rmw_like li,#rmw_zhuanti li{
+  padding: 0px 0 11px 0;
+  height: 19px;
+  overflow: hidden;
+  line-height: 31px;
+}
+/*updata:20190110 in design*/
+.box_nav_list{
+  height:390px;
+}
+/*updata:20190303 in design*/
+.cont_d .news_left .ad_left{
+  background:url(/img/2016people/images/2019lh/banner_bg1.jpg) no-repeat;
+  background-size:contain;
+}
+/*updata:20190327 in design*/
+.aiguo{
+  display: inline-block;
+  width: 106px;
+  height: 25px;
+  background: url(/img/2016people/images/aiguo.jpg) no-repeat;
+  vertical-align: middle;
+  margin-right: 3px;
+}
+/*updata:20190613 in codeThree*/
+span.icon_cz{display:inline-block;width:83px;height:38px;background:url(/img/2016people/images/tubiao/changzheng.png) no-repeat;vertical-align:middle;margin-right:3px; background-size:contain;}
+span.icon_cz a{display:inline-block;width:83px;height:38px;}
+
+</style>
+
+
+</head>
+<body>
+<!--出访专区-->
+<div class="spring_bg">
+<script type="text/javascript" src="http://pmm.people.com.cn/main/s?user=people|2016people|quanping&db=people&border=0&local=yes&js=ie" charset="gbk"></script>
+  <!--顶通广告-->
+  <div class="banner bannerTop"><script type="text/javascript" src="http://pmm.people.com.cn/main/s?user=people|2016people|topfullcolumn&db=people&border=0&local=yes&js=ie" charset="gbk"></script></div>
+<div class="spring_banner"></div><div class="white_bg">
+  <div id="rmw_nav" class="clearfix">
+  <div class="yuandanBgWhite1">
+  <div class="conBox81"><a href="http://military.people.com.cn/GB/8221/84385/413328/index.html" target="_blank" class="link81"></a></div>
+  <header class="w1000 guoqian70">
+  	 
+     <div class="sub_nav_top">
+       <a href="http://www.people.com.cn/"><img src="/img/2016people/images/rmw_logo.png" class="rmw_logo" alt=""></a>
+       <a href="http://www.people.com.cn/" class="gq70_link"></a><!--20190930-->
+       <span class="defaultlink"><a href="http://cpc.people.com.cn/">中国共产党新闻网</a></span>
+       <span class="defaultlink"><a href="http://liuyan.people.com.cn/">领导留言板</a></span>
+       <span class="defaultmenu">人民日报报系
+         <ul>
+            <li><a href="http://paper.people.com.cn/rmrb/index.html" target="_blank">人民日报</a></li>
+            <li><a href="http://paper.people.com.cn/rmrbhwb/paperindex.htm" target="_blank">海外版</a></li>
+            <li><a href="http://www.cnautonews.com/" target="_blank">中国汽车报</a></li>
+            <li><a href="http://paper.people.com.cn/zgnyb/paperindex.htm" target="_blank">中国能源报</a></li>
+            <li><a href="http://www.marketdaily.com.cn/">市场报网络版</a></li>
+            <li><a href="http://paper.people.com.cn/jksb/paperindex.htm" target="_blank">健康时报</a></li>
+            <li><a href="http://www.stcn.com/" target="_blank">证券时报</a></li>
+            <li><a href="http://paper.people.com.cn/gjjrb/" target="_blank">国际金融报</a></li>
+            <li><a href="http://paper.people.com.cn/xwzx/paperindex.htm" target="_blank">新闻战线</a></li>
+            <li><a href="http://paper.people.com.cn/rmlt/paperindex.htm" target="_blank">人民论坛</a></li>
+            <li><a href="http://paper.people.com.cn/rmzk/paperindex.htm" target="_blank">人民周刊</a></li>
+            <li><a href="http://www.hqrw.com.cn/" target="_blank">环球人物</a></li>
+            <li><a href="http://www.ceweekly.cn/" target="_blank">中国经济周刊</a></li>
+            <li><a href="http://www.msweekly.com/" target="_blank">民生周刊</a></li>
+            <li><a href="http://history.people.com.cn/GB/198819/index.html" target="_blank">国家人文历史</a></li>
+            <li><a href="http://paper.people.com.cn/xaq/paperindex.htm" target="_blank">新安全</a></li>
+            <li><a href="http://paper.people.com.cn/fcyym/paperindex.htm" target="_blank">讽刺与幽默</a></li>
+            <li><a href="http://paper.people.com.cn/zgcsb/paperindex.htm" target="_blank">中国城市报</a></li>
+          </ul>
+       </span>
+       <span class="defaultmenu">强国论坛
+         <ul>
+         	<li><a href="http://bbs1.people.com.cn/board/2.html" target="_blank">深入讨论</a></li>
+            <li><a href="http://bbs1.people.com.cn/board/1.html" target="_blank">强国论坛</a></li>
+            <!--<li><a href="http://t.people.com.cn/" target="_blank">人民微博</a></li>-->
+            <li><a href="http://fangtan.people.com.cn/" target="_blank">人民访谈</a></li>
+          </ul>
+       </span>
+       <span class="defaultmenu">旗下网站
+       	 <ul>
+         	<li><a href="https://visual.people.cn/" target="_blank">人民视觉</a></li>
+            <li><a href="http://www.huanqiu.com/" target="_blank">环球网</a></li>
+            <li><a href="http://www.peopleyuqing.com/" target="_blank">人民在线</a></li>
+            <li><a href="http://www.haiwainet.cn/" target="_blank">海外网</a></li>
+            <li><a href="http://mooc.people.cn/" target="_blank">公开课</a></li>
+            <li><a href="http://jinbao.people.cn/" target="_blank">金报电子</a></li>
+            <li><a href="http://video.people.cn/" target="_blank">人民视讯</a></li>
+            <li><a href="http://www.people78.cn/" target="_blank">人民棋牌</a></li>
+            <li><a href="http://peopletech.cn/" target="_blank">人民科技</a></li>
+            <li><a href="https://coo.people.cn/" target="_blank">人民智作</a></li>
+            <li><a href="http://yjy.people.com.cn/" target="_blank">人民网研究院</a></li>
+          </ul>
+       </span><!--<a href="javascript:void(0)" id="cniil_wza" class="wuzhangai" target="_self"
+><img src="/img/2016people/images/tubiao/wza.png" alt="无障碍"></a>--><img src="/img/2016people/images/search_b.jpg" id="search_button" style="right:80px" alt=""><a href="http://www.people.com.cn/GB/138812/index.html"><img src="/img/2016people/images/map.jpg" class="map" style="right:40px;" alt=""></a>
+        <div class="p_search" id="p_search">
+            <form  action="http://search.people.com.cn/cnpeople/peoplesearch.do" name="searchForm" method="post">
+            <p><input class="people_input" name="keyword" id="keyword" value="请输入检索内容" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" type="text" /></p>
+            <p class="tc"><input type="submit" name="" value="站内检索" class="people_button_sub" onclick="searchForm.submit();"></p></form>
+       </div>
+     </div>
+     <div class="sub_nav_bottom">
+       <span id="txz_dlq"><a id="login_button">登录</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44">注册</a></span>
+       <span id="txz_dlh" style="display:none;"><em id="loginMsg"></em><a id="logout" target="_self">退出</a></span>
+       <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>登录人民网通行证 &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">立即注册</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="请输入用户名" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">记住登录状态</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">忘记密码？</a></p>
+            <p class="tc"><input type="submit" name="" value="登录" class="people_button_sub"></p>
+            <p>其他登录</p>
+            <p class="tc"><a href="http://sso.people.com.cn/logincm"><img src="/img/2016people/images/shoujidenglu.jpg" alt=""></a></p>
+            </form>
+            </div>
+        </div>
+          <div class="sub_nav_list">
+               <div>
+               <ul>
+                  <li class="one"><a href="http://cpc.people.com.cn/GB/69112/113427/index.html">毛主席纪念堂</a>|<a href="http://zhouenlai.people.cn/">周恩来纪念网</a>|<a href="http://www.dengxiaopingnet.com/">邓小平纪念网</a>|<a href="http://npc.people.com.cn/">人大新闻网</a>|<a href="http://acftu.people.com.cn/">工会新闻网</a>|<a href="http://www.chinaql.org/GB/index.html">中国侨联</a></li>
+<li class="two"><a href="https://www.xuexi.cn/" target="_blank">学习强国</a>|<a href="http://www.dswxyjy.org.cn/">中共中央党史和文献研究院</a>|<a href="http://www.12380.gov.cn/">中组部12380举报网</a>|<a href="http://www.npopss-cn.gov.cn/">全国社科工作办</a>|<a href="http://tyzx.people.cn/">中国统一战线新闻网</a>|<a href="http://www.qizhiwang.org.cn/">旗帜网</a></li>
+<li class="thr"><a href="http://www.gjbmj.gov.cn/">国家保密局</a>|<a href="http://rencai.people.com.cn/">中国人才网</a>|<a href="http://www.cpta.com.cn/">人事考试网</a>|<a href="http://kpzg.people.com.cn/">科普中国</a>|<a href="http://ip.people.com.cn/">知识产权</a>|<a href="http://www.urbanchina.org/">中国城市网</a>|<a href="http://rwdl.people.cn/">中国国家人文地理</a><!--|<a href="http://xjr.people.cn/">人民信金融</a>--></li>
+               </ul>
+             </div> 
+           </div>
+     </div>
+  </header>
+  </div>
+  <nav>
+    <div class="w1000">
+      <span id='n1'><a href="http://news.people.com.cn/">滚动</a></span>
+<span id='n2'><a href="http://politics.people.com.cn/">时政</a></span>
+<span id='n3'><a href="http://world.people.com.cn/">国际</a></span>
+<span id='n4'><a href="http://finance.people.com.cn/">财经</a></span>
+<span id='n5'><a href="http://tw.people.com.cn/">台湾</a></span>
+<span id='n6'><a href="http://military.people.com.cn/">军事</a></span>
+<span id='n7'><a href="http://opinion.people.com.cn/">观点</a></span>
+<span id='n8'><a href="http://leaders.people.com.cn/">领导</a></span>
+<span id='n23'><a href="http://v.people.cn/">视频</a></span>
+<span id='n9'><a href="http://renshi.people.com.cn/">人事</a></span>
+<span id='n10'><a href="http://theory.people.com.cn/">理论</a></span>
+<span id='n11'><a href="http://legal.people.com.cn/">法治</a></span>
+<span id='n12'><a href="http://society.people.com.cn/">社会</a></span>
+<span><a href="http://industry.people.com.cn/">产经</a></span>
+<span id='n13'><a href="http://edu.people.com.cn/">教育</a></span>
+<span id='n14'><a href="http://lxjk.people.cn/GB/index.html">科普</a></span>
+<span id='n15'><a href="http://sports.people.com.cn/">体育</a></span>
+<span id='n16'><a href="http://culture.people.com.cn/">文化</a></span>
+<span id='n17'><a href="http://art.people.com.cn/">书画</a></span>
+<span id='n18'><a href="http://house.people.com.cn/">房产</a></span>
+<span id='n19'><a href="http://auto.people.com.cn/">汽车</a></span>
+<span id='n21'><a href="http://health.people.com.cn/">健康</a></span>
+<span id='n22'><a href="http://scitech.people.com.cn/">科技</a></span>
+      <b class="nav_jia"></b>
+<div class="nav_custom">
+        <em><a href="http://pic.people.com.cn/">图片</a></em>
+        <em><a href="http://dangjian.people.com.cn/">党建</a></em>
+<em><a href="http://dangshi.people.com.cn/">党史</a></em>
+<em><a href="http://fanfu.people.com.cn/">反腐</a></em>
+<em><a href="http://hm.people.com.cn/">港澳</a></em>
+<em><a href="http://media.people.com.cn/">传媒</a></em>
+<em><a href="http://rmfp.people.com.cn/">扶贫</a></em>
+<em><a href="http://ccnews.people.com.cn/">央企</a></em>
+<em><a href="http://fangtan.people.com.cn/">访谈</a></em>
+<em><a href="http://tc.people.com.cn/">通信</a></em>
+<em><a href="http://it.people.com.cn/">I　T</a></em>
+<em><a href="http://capital.people.com.cn/">创投</a></em>
+<em><a href="http://yuqing.people.com.cn/">舆情</a></em>
+<em><a href="http://graphicnews.people.com.cn/" target="_blank">图解</a></em>
+<em><a href="http://mooc.people.com.cn/">慕课</a></em>
+<em style="width:44px;"><a href="http://coo.people.cn/" target="_blank">智作</a></em>
+<em style="width:58px;"><a href="http://country.people.com.cn/">美丽乡村</a></em>
+<br />
+<em><a href="http://money.people.com.cn/">金融</a></em>
+<em><a href="http://energy.people.com.cn/">能源</a></em>
+<em><a href="http://gongyi.people.com.cn/">公益</a></em>
+<em><a href="http://env.people.com.cn/">环保</a></em>
+<em><a href="http://shipin.people.com.cn/">食品</a></em>
+<em><a href="http://jiu.people.cn/">酒业</a></em>
+<em><a href="http://fashion.people.com.cn/">时尚</a></em>
+<em><a href="http://ent.people.com.cn/">娱乐</a></em>
+<em><a href="http://xiaofei.people.com.cn/">消费</a></em>
+<em><a href="http://game.people.com.cn/">游戏</a></em>
+<em><a href="http://caipiao.people.com.cn/">彩票</a></em>
+<em><a href="http://travel.people.com.cn/">旅游</a></em>
+<em><a href="http://5gcenter.people.cn/" target="_blank">5　G</a></em>
+<em><a href="http://unn.people.com.cn/" target="_blank">各地</a></em>
+<em><a href="http://yunying.people.cn/GB/index.html">运营</a></em>
+<em style="width:44px;"><a href="http://blockchain.people.com.cn/">区块链</a></em>
+<em style="width:58px;"><a href="http://ip.people.com.cn/">知识产权</a></em>
+      </div>
+    </div>
+  </nav>
+  <!--地方频道与多语种-->
+  <section class="w1000 cont_language">
+     <div class="city_list">
+      <a href="http://bj.people.com.cn/">京</a>|<a href="http://tj.people.com.cn/">津</a>|<a href="http://he.people.com.cn/">冀</a>|<a href="http://sx.people.com.cn/">晋</a>|<a href="http://nm.people.com.cn/">蒙</a>|<a href="http://ln.people.com.cn/">辽</a>|<a href="http://jl.people.com.cn/">吉</a>|<a href="http://hlj.people.com.cn/">黑</a>|<a href="http://sh.people.com.cn/">沪</a>|<a href="http://js.people.com.cn">苏</a>|<a href="http://zj.people.com.cn/">浙</a>|<a href="http://ah.people.com.cn/">皖</a>|<a href="http://fj.people.com.cn/">闽</a>|<a href="http://jx.people.com.cn/">赣</a>|<a href="http://sd.people.com.cn/">鲁</a>|<a href="http://henan.people.com.cn/">豫</a>|<a href="http://hb.people.com.cn/">鄂</a>|<a href="http://hn.people.com.cn/">湘</a>|<a href="http://gd.people.com.cn/">粤</a>|<a href="http://gx.people.com.cn/">桂</a>|<a href="http://hi.people.com.cn/">琼</a>|<a href="http://cq.people.com.cn/">渝</a>|<a href="http://sc.people.com.cn/">川</a>|<a href="http://gz.people.com.cn/">黔</a>|<a href="http://yn.people.com.cn/">滇</a>|<a href="http://xz.people.com.cn/">藏</a>|<a href="http://sn.people.com.cn/">陕</a>|<a href="http://gs.people.com.cn/">甘</a>|<a href="http://qh.people.com.cn/">青</a>|<a href="http://nx.people.com.cn/">宁</a>|<a href="http://xj.people.com.cn/">新</a>|<a href="http://sz.people.com.cn/">鹏</a>|<a href="http://www.rmxiongan.com/">雄安</a>
+     </div>
+     <div class="lan">
+      <img src="/img/2016people/images/lan.jpg" alt="" usemap="#Map" />
+      <map name="Map">
+            <area shape="rect" coords="392,7,423,27" href="http://www.people.com.cn/BIG5/">
+           <area shape="rect" coords="434,7,477,26" href="http://en.people.cn/">
+           <area shape="rect" coords="490,6,528,26" href="http://j.people.com.cn/">
+           <area shape="rect" coords="540,6,589,26" href="http://french.peopledaily.com.cn/">
+           <area shape="rect" coords="598,6,647,26" href="http://spanish.peopledaily.com.cn/">
+           <area shape="rect" coords="661,6,741,26" href="http://russian.people.com.cn/">
+           <area shape="rect" coords="750,6,782,26" href="http://arabic.people.com.cn/">
+           <area shape="rect" coords="787,6,831,26" href="http://kr.people.com.cn/">
+           <area shape="rect" coords="835,6,887,26" href="http://german.people.com.cn/">
+           <area shape="rect" coords="890,7,963,26" href="http://portuguese.people.com.cn/">
+         <area shape="rect" coords="4,1,22,30" href="http://mongol.people.com.cn/">
+         <area shape="rect" coords="31,5,74,28" href="http://tibet.people.com.cn/">
+         <area shape="rect" coords="85,4,144,27" href="http://uyghur.people.com.cn/">
+         <area shape="rect" coords="155,4,203,27" href="http://kazakh.people.com.cn/">
+         <area shape="rect" coords="213,4,257,26" href="http://korean.people.com.cn/">
+         <area shape="rect" coords="264,7,318,27" href="http://yi.people.com.cn/">
+         <area shape="rect" coords="327,6,382,27" href="http://sawcuengh.people.com.cn/">
+      </map>
+     </div>
+  </section>
+  </div>
+  
+  <!--综合广告-->
+  <section class="w1000 zh_banner clearfix">
+    <div class="zh_left fl">
+      <div><script type="text/javascript" src="http://pmm.people.com.cn/main/s?user=people|2016people|tonglan01&db=people&border=0&local=yes&js=ie" charset="gbk"></script></div>
+      <div class="zh_box zh_box_gg"><img src="http://www.people.com.cn/adv/adhint.gif" style="position:absolute; width:26px; height:13px; right:0px; bottom:0px;" /><!--<img src="http://www.people.com.cn/adv/adhint.gif" class="gg_icon" />-->
+      <span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink01&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+<span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink02&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+<span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink03&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+<span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink04&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+<span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink05&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+<span class="txt" style="width:130px"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink06&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+
+<span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink08&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+<span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink09&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+<span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink10&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+<span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink11&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+<span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink12&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+<span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink13&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+<span class="txt"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|textlink14&db=people&border=0&local=yes&js=ie' charset='gbk'></script></span>
+      </div>
+    </div>
+    <div class="zh_right fr">
+      <div><script type="text/javascript" src="http://pmm.people.com.cn/main/s?user=people|2016people|juxing01&db=people&border=0&local=yes&js=ie" charset="gbk"></script></div>
+      <div class="zh_box">
+        <div>
+        <ul>
+<li>
+<b><a href="http://fanfu.people.com.cn/wljb/">网络监督专区</a></b>
+<span><a href="http://fanfu.people.com.cn/wljb/">欢迎监督 如实举报</a></span>
+</li>
+<li>
+<b><a href="http://dangshi.people.com.cn/GB/151935/427898/index.html">闪光的足迹</a></b>
+<span><a href="http://dangshi.people.com.cn/GB/151935/427898/index.html">我在爱国主义教育基地等你</a></span>
+</li>
+<li>
+<b><a href="https://www.12377.cn/">网上有害信息</a></b>
+<span><a href="https://www.12377.cn/">举报专区</a></span>
+</li>
+<li>
+<b><a href="http://yunying.people.cn/n1/2020/0828/c432311-31840875.html">“五个一百”评选</a></b>
+<span><a href="http://yunying.people.cn/n1/2020/0828/c432311-31840875.html">网聚正能量 奋进新时代</a></span>
+</li>
+</ul>
+        </div>
+      </div>
+    </div>
+  </section>
+<!--出访专区-->
+
+<!--结束出访专区-->
+  <!--通栏板块A_新闻头条与焦点图-->
+  <section class="w1000 cont_a">
+  	<div id="rmw_topline">
+    <h1 id="rmw_headlines"><a href="http://politics.people.com.cn/n1/2020/1015/c1001-31893735.html" target="_blank">深圳四十，习近平这样为经济特区把脉定向</a></h1>
+    <p id="rmw_sheadlines"><a href="http://cpc.people.com.cn/n1/2020/1014/c164113-31891940.html" target="_blank">习近平深圳讲话激励人心</a><a href="http://cpc.people.com.cn/n1/2020/1014/c164113-31892144.html" target="_blank">这四组数字意义非凡</a><a href="http://opinion.people.com.cn/n1/2020/1014/c223228-31892182.html" target="_blank">人民网评:努力续写更多"春天的故事"</a><a href="http://opinion.people.com.cn/n1/2020/0826/c1003-31836559.html" target="_blank">评论员观察:以更昂扬姿态书写改革开放新篇</a></p>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    </div>
+    <div class="w1000 focus_img clearfix">
+        <div class="focus" id="rmw_focus">
+         <div class="focus_list" id="focus_list">
+           <ul>
+             <li><a href="http://politics.people.com.cn/n1/2020/1015/c1024-31893323.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151331409902154544685.jpg" width="655" height="415" border="0"/></a><div class="show"><a href="http://politics.people.com.cn/n1/2020/1015/c1024-31893323.html" target='_blank'>习近平在广东考察</a></div></li>
+<li><a href="http://pic.people.com.cn/n1/2020/1015/c1016-31893695.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151810438483096701255.JPG" width="655" height="415" border="0"/></a><div class="show"><a href="http://pic.people.com.cn/n1/2020/1015/c1016-31893695.html" target='_blank'>“人民至上 生命至上”抗击新冠肺炎疫情专题展览开幕</a></div></li>
+<li><a href="http://pic.people.com.cn/n1/2020/1015/c1016-31893665.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151719428773855893331.jpg" width="655" height="415" border="0"/></a><div class="show"><a href="http://pic.people.com.cn/n1/2020/1015/c1016-31893665.html" target='_blank'>世界最高电压等级±1100千伏换流站首次“体检”</a></div></li>
+<li><a href="http://pic.people.com.cn/n1/2020/1015/c1016-31893697.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151810435020828470182.JPG" width="655" height="415" border="0"/></a><div class="show"><a href="http://pic.people.com.cn/n1/2020/1015/c1016-31893697.html" target='_blank'>第十六届海峡两岸图书交易会在厦门举行</a></div></li>
+<li><a href="http://pic.people.com.cn/n1/2020/1015/c1016-31893490.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151511224784723377326.JPG" width="655" height="415" border="0"/></a><div class="show"><a href="http://pic.people.com.cn/n1/2020/1015/c1016-31893490.html" target='_blank'>天空之眼瞰深圳</a></div></li>
+<li><a href="http://rmfp.people.com.cn/n1/2020/1014/c406725-31891957.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151626160702386395442.jpg" width="655" height="415" border="0"/></a><div class="show"><a href="http://rmfp.people.com.cn/n1/2020/1014/c406725-31891957.html" target='_blank'>“西藏江南” 惊艳时空</a></div></li>
+<li><a href="http://pic.people.com.cn/n1/2020/1015/c1016-31893661.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151719425230939609983.jpg" width="655" height="415" border="0"/></a><div class="show"><a href="http://pic.people.com.cn/n1/2020/1015/c1016-31893661.html" target='_blank'>新疆昌吉：为茫茫大漠筑“绿色长城”</a></div></li>
+<li><a href="http://hn.people.com.cn/n2/2020/1015/c337651-34352248.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151643151342509566592.JPG" width="655" height="415" border="0"/></a><div class="show"><a href="http://hn.people.com.cn/n2/2020/1015/c337651-34352248.html" target='_blank'>衡阳中欧班列首发 13天可达俄罗斯比克良市</a></div></li>
+<li><a href="http://v.people.cn/n1/2020/1015/c177969-31893709.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151906123013771880828.jpg" width="655" height="415" border="0"/></a><div class="show"><img src="/img/2016people/images/tvplay.jpg" onclick="playVideo('/pvservice/xml/2020/10/15/eb832e88-85c8-4232-a701-b0d85661a22e.xml')" alt="" /><a href="http://v.people.cn/n1/2020/1015/c177969-31893709.html" target="_blank">《夜归人》第二季 林晨同学：凌晨微光</a></div></li>
+<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|focus01&db=people&border=0&local=yes&js=ie' charset='gbk'></script>
+<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|focus02&db=people&border=0&local=yes&js=ie' charset='gbk'></script>
+<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|focus03&db=people&border=0&local=yes&js=ie' charset='gbk'></script>
+<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|focus04&db=people&border=0&local=yes&js=ie' charset='gbk'></script>
+           </ul>
+           <span class="focusn"></span>
+           <span class="focus_left_b prev"></span>
+           <span class="focus_right_b next"></span>
+         </div>
+         <div class="tvplayshow">
+           <div class="video-play"></div>
+           <span class="closetv" onclick="stopVideoPlay()">关闭视频</span>
+         </div>
+        </div>
+        <div class="main ml35" id="rmw_a">
+         <h2><a href="http://politics.people.com.cn/n1/2020/1015/c1024-31893287.html" ><img src="/NMediaFile/2020/1015/MAIN202010151816489048141227776.jpg" /></a>
+</h2>
+         
+         
+         
+         
+		
+         <ul class="list14">         	
+		<li><a href="http://politics.people.com.cn/n1/2020/1015/c1024-31893501.html" target="_blank">《求是》杂志发表习近平重要文章</a></li>
+		<li><a href="http://politics.people.com.cn/n1/2020/1015/c1001-31893707.html" target="_blank">一见·解读习近平与"续写更多'春天的故事'"</a></li>
+		<li><a href="http://politics.people.com.cn/n1/2020/1015/c1024-31893793.html" target="_blank">李克强出席大众创业万众创新活动周启动仪式</a></li>
+		<li><a href="http://politics.people.com.cn/n1/2020/1015/c1024-31893765.html" target="_blank">汪洋主持全国政协召开双周协商座谈会</a></li>
+         </ul>
+          <div class="line"></div>
+          <h2><a href="http://politics.people.com.cn/n1/2020/1015/c1001-31893733.html" ><img src="/NMediaFile/2020/1015/MAIN202010152023496784749711445.jpg" /></a>
+</h2>
+          <!--要闻A区十九大众说_内容-->
+          
+          <!--要闻A区新时代新气象新作为_内容-->
+          
+          <!--要闻A区建设四好农村路-->
+          
+          <!--挚画新时代奋斗出幸福-->
+          
+          <ul class="list14">
+             <li class="one"><a href="http://politics.people.com.cn/n1/2020/1015/c1001-31893716.html" target="_blank">十九届中央第六轮巡视完成32个地方和单位进驻</a></li>
+             <li class="two"><a href="http://finance.people.com.cn/n1/2020/1015/c1004-31893058.html" target="_blank">9月CPI同比涨1.7% 猪价涨幅回落</a><a href="http://finance.people.com.cn/n1/2020/1015/c1004-31893077.html" target="_blank"> PPI降2.1%</a></li>
+             <li><a href="http://opinion.people.com.cn/n1/2020/1015/c427456-31893722.html" target="_blank">财评:房地产直播"走俏" 消费者为何不买账?</a></li>
+             <div id="dfip">
+             <li><a href="http://politics.people.com.cn/n1/2020/1015/c1001-31893315.html" target="_blank">西藏历史性消除绝对贫困</a> <a href="http://politics.people.com.cn/n1/2020/1015/c1001-31893452.html" target="_blank">激发群众内生动力</a></li>
+             <li><a href="http://industry.people.com.cn/n1/2020/1015/c413883-31893061.html" target="_blank">大道康庄浙江篇:"无中生有"的"中国钢琴之乡"</a></li>
+             </div>
+             <!--worldcupNews-->
+             
+          </ul>
+        </div>
+    </div>
+  </section>
+
+</div></div>
+
+  <!--通栏板块B_特别报道-->
+  <section class="w1000 cont_b" id="rmw_tuijian" style="display:block;">
+    <div class="bd_title">
+      特<br>别<br>推<br>荐
+    </div>
+    <span class="left_b prev1"></span>
+    <span class="right_b next1"></span>
+    <div class="cont_b_box">
+        <ul>
+          <li><a href="http://hb.people.com.cn/n2/2020/1015/c192237-34352420.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010152217282635394682916.jpg" width="250" height="100" border="0" alt="抗疫专题展再现战疫尖峰时刻15日，“人民至上 生命至上——抗击新冠肺炎疫情专题展览”在武汉开展。［阅读］"/></a><h4><a href="http://hb.people.com.cn/n2/2020/1015/c192237-34352420.html">抗疫专题展再现战疫尖峰时刻</a></h4><p>15日，“人民至上 生命至上——抗击新冠肺炎疫情专题展览”在武汉开展。<a href="http://hb.people.com.cn/n2/2020/1015/c192237-34352420.html">［阅读］</a></p></li>
+<li><a href="http://env.people.com.cn/n1/2020/1015/c1010-31893176.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151701495289123432377.jpg" width="250" height="100" border="0" alt="应对塑料污染 &quot;中国方案&quot;稳步推进目前应对“白色污染”的“中国方案”已经有了整体部署，并在稳步推进。［阅读］"/></a><h4><a href="http://env.people.com.cn/n1/2020/1015/c1010-31893176.html">应对塑料污染 "中国方案"稳步推进</a></h4><p>目前应对“白色污染”的“中国方案”已经有了整体部署，并在稳步推进。<a href="http://env.people.com.cn/n1/2020/1015/c1010-31893176.html">［阅读］</a></p></li>
+<li><a href="http://www.people.com.cn/n1/2020/1015/c32306-31893706.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010152217286097055127324.jpg" width="250" height="100" border="0" alt="疫情会在秋冬反弹吗?吴尊友作判断疾控中心流行病学专家吴尊友称，中国有经验和信心应对秋冬季疫情反弹。［阅读］"/></a><h4><a href="http://www.people.com.cn/n1/2020/1015/c32306-31893706.html">疫情会在秋冬反弹吗?吴尊友作判断</a></h4><p>疾控中心流行病学专家吴尊友称，中国有经验和信心应对秋冬季疫情反弹。<a href="http://www.people.com.cn/n1/2020/1015/c32306-31893706.html">［阅读］</a></p></li>
+<li><a href="http://fj.people.com.cn/n2/2020/1015/c181466-34352167.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010152042058589969844801.jpg" width="250" height="100" border="0" alt="“数”读数字中国建设峰会成果本届数字中国建设峰会取得了一系列丰硕的成果。想了解多有哪些吗？［阅读］"/></a><h4><a href="http://fj.people.com.cn/n2/2020/1015/c181466-34352167.html">“数”读数字中国建设峰会成果</a></h4><p>本届数字中国建设峰会取得了一系列丰硕的成果。想了解多有哪些吗？<a href="http://fj.people.com.cn/n2/2020/1015/c181466-34352167.html">［阅读］</a></p></li>
+<li><a href="http://edu.people.com.cn/n1/2020/1015/c1053-31892517.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151701491787726855006.jpg" width="250" height="100" border="0" alt="抓住教育评价改革的关键目前应对“白色污染”的“中国方案”已经有了整体部署，并在稳步推进。［阅读］"/></a><h4><a href="http://edu.people.com.cn/n1/2020/1015/c1053-31892517.html">抓住教育评价改革的关键</a></h4><p>目前应对“白色污染”的“中国方案”已经有了整体部署，并在稳步推进。<a href="http://edu.people.com.cn/n1/2020/1015/c1053-31892517.html">［阅读］</a></p></li>
+<li><a href="http://www.people.com.cn/n1/2020/1015/c32306-31893073.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151701498828374841031.jpg" width="250" height="100" border="0" alt="机遇与挑战并存 专家热议数字化转型与会专家认为，要营造更加开放包容的发展环境，加速数字经济快速发展。［阅读］"/></a><h4><a href="http://www.people.com.cn/n1/2020/1015/c32306-31893073.html">机遇与挑战并存 专家热议数字化转型</a></h4><p>与会专家认为，要营造更加开放包容的发展环境，加速数字经济快速发展。<a href="http://www.people.com.cn/n1/2020/1015/c32306-31893073.html">［阅读］</a></p></li>
+
+        </ul>
+    </div>
+  </section>
+  <div class="banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|tonglan1&db=people&border=0&local=yes&js=ie' charset='gbk'></script></div>
+  <script type="text/javascript">
+$(document).ready(function(){
+	function ShuJu(localIp) {	
+	var localUrl = "http://messageboard.peopletech.cn/answered/new_answered_all.jsonp?callback=IndexThreads&_=1584661773758"
+	$.ajax({
+		type: "get",
+		url: localUrl,
+		timeout : 3000,
+		cache: false,
+		dataType: "jsonp",
+		jsonp: "callback",
+		jsonpCallback: "IndexThreads",
+		success: function(data) {
+			var hftime;
+			var arr = [];
+			var size = 10;
+			var sum = 5;			
+			while(true){
+				var num = Math.floor(Math.random()*size);
+				if (!Array.indexOf) {
+					Array.prototype.indexOf = function (obj) {
+						for(var i = 0;i < this.length;i++){
+							if (this[i] == obj) {
+								return i;
+							}
+						}
+						return -1;
+					}
+				}				
+				if(arr.indexOf(num) == -1){
+					arr.push(num)
+				}				
+				if(arr.length == sum){
+					break;
+				}
+			}
+			arr.sort(function(a, b){return a - b});		
+			var localHtml='<a href="http://leaders.people.com.cn/GB/178291/218130/414212/index.html" target="_blank"><img src="/img/2019peopleindex/images/logo/lyb.png" width="140" height="30" style="margin:0px 30px 10px 0;vertical-align:top;float:left;" /></a><div class="winBox"><ul class="scroll" id="a01">';
+			var zlength=0;
+			$.each(data,function(i,n){
+				if (i == 5) {
+					 return false;
+				}
+				var myDate = new Date();
+				var mytime= parseInt(myDate.getTime()/1000)-data[arr[i]].answerTime;
+				var todaytime=myDate.getHours()*3600+myDate.getMinutes()*60+myDate.getSeconds();
+				var zttime=todaytime+86400;				
+				var sgwidth;
+				if(mytime < 3600){
+					hftime="刚刚  ";
+				}
+				else if(mytime > 3600  && mytime < todaytime){
+					hftime="今天  ";
+				}
+				else if(mytime > todaytime && mytime < zttime){
+					hftime="昨天  ";
+				}
+				else if(mytime > zttime){
+					hftime="";
+				}
+				if(data[arr[i]].typeName == "感谢"){
+					sgwidth=parseInt(data[arr[i]].forumName.length*14+220);
+					localHtml += '<li style="width:'+ sgwidth+'px">'+ hftime +'<a href="'+ data[arr[i]].threadUrl +'" target="_blank">网友给'+ data[arr[i]].forumName +'发来感谢信</a></li>';					
+				}else{
+				sgwidth=parseInt(data[arr[i]].forumName.length*14+300);
+				localHtml += '<li style="width:'+ sgwidth+'px">'+ hftime +'<a href="'+ data[arr[i]].threadUrl +'" target="_blank">网友给'+ data[arr[i]].forumName +'反映的“'+ data[arr[i]].domainName +'”问题获回应</a></li>';
+				}
+				zlength=sgwidth+zlength;
+			});
+			localHtml +='</ul></div>'
+			$("#ldlyb").html(localHtml);
+			var num = 0;
+			zlength=780-zlength;
+			console.log(zlength);
+			function goLeft() {
+				if (num == zlength) {
+					num = 0;
+				}
+				num -= 1;
+				$(".scroll").css({
+					left: num
+				})
+			}
+			var timer = setInterval(goLeft,20);
+			//设置鼠标经过时滚动停止
+			$(".scroll").hover(function() {
+				clearInterval(timer);
+			},
+			function() {
+				timer = setInterval(goLeft,20);
+			})
+		},
+		error: function(XMLHttpRequest, textStatus, errorThrown) {
+			console.log(XMLHttpRequest.status);
+			console.log(XMLHttpRequest.readyState);
+			console.log(textStatus);
+		}
+	});
+  }
+ShuJu();	
+})
+</script>
+<style type="text/css">
+.winBox {width:800px;height:20px;overflow:hidden;position:relative; margin:3px auto 12px auto;}
+.scroll {width:2300px;position:absolute;left:0px;top:0px;}
+.scroll li {float:left;line-height:20px;font-size:14px;text-align:center; border-right:1px solid #000; height:20px;}
+</style><section class="w1000 clearfix" id="ldlyb"></section>
+  <!--通栏板块C_嘉宾访谈-->
+  <section class="w1000 cont_c clearfix" id="rmw_jiabing" style="display:none;">
+     <div class="ft_title">
+        <b>嘉宾访谈</b>
+     </div>
+     <div class="ft_content">
+        <div class="ft_box">
+        <a href="http://sports.people.com.cn/GB/400299/406075/index.html" target="_blank"><img src="/NMediaFile/2016/0722/MAIN201607221351296111051004744.jpg" width="248" height="219" border="0" alt="对话国家体育总局副局长高志丹中国里约奥运体育代表团要实现成绩、精神双丰收&#13;        高志丹做客人民体育时表示，2016年里约奥运会中国体育代表团的目标是实现运动成绩和精神文明的双丰收。体育既是竞技也是文化，要关注竞技体育的内涵，关注体育积极的正能量，在欣赏高水平竞技过程中，实现体育的全面发展。［阅读］"/></a><h3><b>对话国家体育总局副局长高志丹</b>中国里约奥运体育代表团要实现成绩、精神双丰收</h3>
+        <p>高志丹做客人民体育时表示，2016年里约奥运会中国体育代表团的目标是实现运动成绩和精神文明的双丰收。体育既是竞技也是文化，要关注竞技体育的内涵，关注体育积极的正能量，在欣赏高水平竞技过程中，实现体育的全面发展。<a href="http://sports.people.com.cn/GB/400299/406075/index.html">［阅读］</a></p>
+
+        </div>
+        <div class="ft_img">
+          <p class="imgstyle"><a href="http://sports.people.com.cn/n1/2016/0722/c22149-28575860.html" target="_blank"><img src="/NMediaFile/2016/0722/MAIN201607221416481769396297987.jpg" width="80" height="80" border="0" alt="7月21日，中国男篮抵达洛杉矶开始奥运最后备战，两场热身赛后即从美国直飞里约。［阅读］"/></a>7月21日，中国男篮抵达洛杉矶开始奥运最后备战，两场热身赛后即从美国直飞里约。<a href="http://sports.people.com.cn/n1/2016/0722/c22149-28575860.html">［阅读］</a></p>
+<p class="imgstyle"><a href="http://sports.people.com.cn/n1/2016/0722/c14820-28575143.html" target="_blank"><img src="/NMediaFile/2016/0722/MAIN201607221416482972973528455.jpg" width="80" height="80" border="0" alt="随着中国奥运代表团成立，中国帆船队征战里约奥运的运动员名单也随之出炉。［阅读］"/></a>随着中国奥运代表团成立，中国帆船队征战里约奥运的运动员名单也随之出炉。<a href="http://sports.people.com.cn/n1/2016/0722/c14820-28575143.html">［阅读］</a></p>
+
+        </div>
+     </div>
+  </section>
+  <!--通栏板块D_要闻A区-->
+  <section class="w1000 cont_d clearfix">
+     <div class="news_left fl">
+       <!--内容板块_人民日报-->
+         <div class="box clearfix paper_c" id="rmw_paper">
+          <h3 class="clearfix" style="position:relative;"><span class="rmrb_logo"></span><strong><a href="http://www.people.com.cn/GB/123231/365206/index.html">客户端下载</a></strong><em style="position:absolute;top:-15px;right:-5px;"><a href="http://www.hubpd.com/"><img src="/img/2016people/images/dmptLogo.png"></a></em></h3>
+          <div class="paper">
+          <a href="http://paper.people.com.cn/rmrb/index.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150625145819933377223.jpg" width="120" height="170" border="0"/></a>
+
+          <p><a href='http://opinion.people.com.cn/n1/2020/1015/c1003-31892234.html' target="_blank"><b>续写更多"春天的故事"</b></a></p>
+<p><a href='http://opinion.people.com.cn/n1/2020/1015/c1003-31892250.html' target="_blank">搬得出,稳得住,能致富</a></p>
+<p><a href='http://opinion.people.com.cn/n1/2020/1015/c1003-31892278.html' target="_blank">提升区域协调发展质量</a></p>
+<p><a href='http://opinion.people.com.cn/n1/2020/1015/c1003-31892277.html' target="_blank">携手应对全球性挑战</a></p>
+<p><a href='http://society.people.com.cn/n1/2020/1015/c1008-31892271.html' target="_blank">云上图书博览会在继续</a></p>
+
+          <p><span class="red"><a href="http://unn.people.com.cn/difang/GB/387272/index.html">人民网记者遍神州</a><!-- <a href="http://www.people.com.cn/GB/8722/index.html">遍全球</a>--></span></p>
+          </div>
+         </div>
+         <div class="ad_left clearfix">
+           <script type="text/javascript" src="http://pmm.people.com.cn/main/s?user=people|2016people|juxing02&db=people&border=0&local=yes&js=ie" charset="gbk"></script>
+         </div>
+         <!--内容板块_网评网语-->
+        <div class="box fl wp">
+          <h3 class="tab_w"><span class="active"><a href="http://opinion.people.com.cn/GB/223228/index.html">网评</a></span><span><a href="http://graphicnews.people.com.cn/">图解</a></span>
+          <em class="gimg ggtu" style="width:120px; height:30px; overflow:hidden; margin-top:-3px; *margin-top:-25px;">
+          <img src="/img/2019peopleindex/images/guanggao/gg02.png" width="120" height="30">
+          </em>
+          </h3>
+          <div class="tabw_c" id="rmw_wangping" style="display:block">
+          <ul class="list14">
+             <li><B><A href="http://opinion.people.com.cn/GB/223228/index.html" target="_blank">网评</A></B><SPAN class=xian>|<A href="				
+http://opinion.people.com.cn/n1/2020/1015/c1003-31892249.html">新品牌，中国制造乘势而上</A></SPAN>
+
+</li><li><B><A href="http://opinion.people.com.cn/GB/427456/index.html" target="_blank">财评</A></B><SPAN class=xian>|<A href="		
+http://opinion.people.com.cn/n1/2020/1014/c427456-31892029.html">开放不止步，深圳再出发</A></SPAN>
+
+
+
+
+
+
+
+</li><li><B><A href="http://opinion.people.com.cn/GB/159301/index.html" target="_blank">快评</A></B><SPAN class=xian>|<A href="				
+http://opinion.people.com.cn/n1/2020/1015/c1003-31892251.html">“城市大脑”绘制智慧生活</A></SPAN>
+
+</li><li><b><a href="http://opinion.people.com.cn/GB/431649/index.html" target="_blank">来论</a></b><span class="xian">|<a href="		
+http://opinion.people.com.cn/n1/2020/1015/c1003-31892280.html">留学千万条 安全第一条</a></span>
+</li><li><B><A href="http://opinion.people.com.cn/GB/1036/index.html" target="_blank">热议</A></B><SPAN class=xian>|<A href="			
+http://opinion.people.com.cn/n1/2020/1015/c1003-31892606.html">严惩"碰瓷"既要立规矩更要守规矩</A></SPAN>
+
+
+
+
+
+
+
+
+
+</li><li><b><a href="http://opinion.people.com.cn/GB/8213/119388/index.html" target="_blank">1+1</a></b><span class="xian">|<a href="
+http://opinion.people.com.cn/n1/2020/1013/c1003-31890366.html" target="_blank">立案处罚千家，环保督察利剑出鞘</a></span></li>
+          </ul>
+          </div>
+          <div class="tabw_c" id="rmw_tujie" style="display:none">
+          <ul class="tvimg clearfix">
+          <li><a href="http://politics.people.com.cn/n1/2020/1014/c1001-31891879.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150823038498469768393.jpg" width="125" height="95" border="0"/></a></li>
+<li><a href="http://society.people.com.cn/n1/2020/1015/c1008-31892285.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150823260090589002261.jpg" width="125" height="95" border="0"/></a></li>
+
+		  </ul>
+          <ul class="list14">
+             <li><a href='http://society.people.com.cn/n1/2020/1015/c1008-31892356.html' target="_blank">数字化再提速 包裹提前进社区</a></li>
+<li><a href='http://politics.people.com.cn/n1/2020/1015/c1001-31892266.html' target="_blank">善用改革思维构建新发展格局</a></li>
+<li><a href='http://society.people.com.cn/n1/2020/1015/c1008-31892283.html' target="_blank">有事大家议 治理省力气</a></li>
+
+          </ul>
+          </div>
+        </div>
+     </div>
+     <!--内容板块_财经-->
+     <div class="box fl ml35 news_center">
+      <h3 style="height:22px;"><span style="margin-right:15px;"><a href="http://www.people.com.cn/GB/59476/">要闻</a></span><span style="margin-right:15px;"><a href="http://politics.people.com.cn/">时政</a></span><a href="http://v.people.cn/" target="_blank"><img src="/img/2016people/images/logo_rmsp.jpg" style="float:right;width:72px;height:30px;margin-top:-5px; *margin-top:-25px;"></a></h3>
+      <ul class="list14 top" id="rmw_b1">
+      	 <li><strong><a href="http://world.people.com.cn/n1/2020/1015/c1002-31893711.html" ><img src="/NMediaFile/2020/1015/MAIN202010152058066986883998472.jpg" /></a>
+</strong></li>
+         <li><a href="http://world.people.com.cn/n1/2020/1015/c1002-31893730.html" target="_blank">外交部:中国一贯致力于和平利用外空</a></li><li><a href="http://env.people.com.cn/n1/2020/1015/c1010-31893389.html" target="_blank">"十三五"我国森林旅游游客量达60亿人次</a></li><li><a href="http://unn.people.com.cn/n1/2020/1015/c14717-31893557.html" target="_blank">多地公布今冬供暖时间 部分地区提前送热</a></li><li><a href="http://country.people.com.cn/n1/2020/1015/c419842-31892882.html" target="_blank">全国832个贫困县产业扶贫项目超100万个</a></li><li><a href="http://edu.people.com.cn/n1/2020/1014/c1053-31892024.html" target="_blank">2021年国家公务员考试10月15日起报名</a></li><li><a href="http://env.people.com.cn/n1/2020/1015/c1010-31893079.html" target="_blank">2019海洋经济运行总体平稳 发展稳步提升</a></li><li><a href="http://sd.people.com.cn/n2/2020/1015/c166192-34352351.html" target="_blank">青岛核酸采样已破千万 未发现新增阳性</a></li>
+      </ul>
+      <ul class="list14" id="rmw_b2">
+         <li><strong><a href="http://society.people.com.cn/n1/2020/1015/c1008-31893674.html" target="_blank">台风"浪卡"防汛防台风Ⅳ级应急响应终止</a></strong></li>
+         <li><a href="http://travel.people.com.cn/n1/2020/1015/c41570-31893295.html" target="_blank">"十三五"我国民航运输发展"两翼齐飞"</a></li><li><a href="http://it.people.com.cn/n1/2020/1015/c1009-31893461.html" target="_blank">"创客"的饕餮盛宴 双创活动周来了!</a></li><li><a href="http://bj.people.com.cn/n2/2020/1015/c14540-34351364.html" target="_blank">北京:2020公示拟取得落户资格人员6032人</a></li><li><a href="http://www.people.com.cn/n1/2020/1015/c32306-31893595.html " target="_blank">一揽子27条!深圳特区扛起这些责任</a></li><li><a href="http://finance.people.com.cn/n1/2020/1015/c1004-31893714.html" target="_blank">第128届广交会在广州举行云开幕仪式</a></li><li><a href="http://finance.people.com.cn/n1/2020/1015/c1004-31893713.html" target="_blank">国际商事争端预防与解决组织正式成立</a></li><li><a href="http://legal.people.com.cn/n1/2020/1015/c42510-31893724.html" target="_blank">长江沿江14省市开展非法捕捞器具销毁活动</a></li><li><a href="http://sh.people.com.cn/n2/2020/1015/c134768-34351994.html" target="_blank">上海警方侦破首例"网红直播带货"售假案</a></li><li><a href="http://hi.people.com.cn/n2/2020/1015/c231190-34352096.html" target="_blank">海南出台31项有力措施 创一流营商环境</a></li>
+      </ul>
+     </div>
+     <div class="fr cpc" id="rmw_cpc">
+       <h2><a href="http://cpc.people.com.cn/">中国共产党新闻网</a><a href="http://cpc.people.com.cn/GB/67481/431391/index.html" target="_blank"><img src="/img/2019peopleindex/images/tubiao/zzwj.png" style=" margin-left:25px; margin-top:-4px;"></a></h2>
+      <ul class="list14">
+         <li><b><a href="http://cpc.people.com.cn/xuexi/" target='_blank'>学习</a></b><span class="xian">|</span><a href="http://dangjian.people.com.cn/n1/2020/1015/c117092-31892961.html" target="_blank">习近平总书记这样谈基层党组织建设</a></li><li><a href="http://politics.people.com.cn/n1/2020/1015/c1001-31893735.html" target="_blank"><b><font color="#000000">深圳四十，习近平为经济特区把脉定向</font></b></a></li><li><a href="http://theory.people.com.cn/n1/2020/1015/c40531-31892881.html" target="_blank">年轻干部要努力成为改革攻坚的生力军</a></li><li><a href="http://cpc.people.com.cn/n1/2020/1015/c164113-31892527.html" target="_blank">中央机关参加摆脱贫困与政党的责任研讨会</a></li><li><a href="http://cpc.people.com.cn/n1/2020/1015/c164113-31893312.html" target="_blank">吴英杰介绍西藏提升脱贫攻坚成果六个措施</a></li><li><a href="http://dangjian.people.com.cn/GB/136058/431693/index.html" target="_blank">创建模范机关：</a><a href="http://dangjian.people.com.cn/n1/2020/1015/c117092-31892576.html" target="_blank">把为农服务工作做得更扎实</a></li><li><a href="http://renshi.people.com.cn/n1/2020/1015/c139617-31892552.html" target="_blank">陕西省人民政府发布一批干部职务任免</a></li><li><a href="http://theory.people.com.cn/n1/2020/1015/c40531-31892377.html" target="_blank"><b><font color="#000000">为凝心聚力打赢脱贫攻坚战提供科学指引</font></b></a>
+</li><li><b><a href="http://renshi.people.com.cn/" target='_blank'>人事</a></b><span class="xian">|</span><a href="http://renshi.people.com.cn/n1/2020/1015/c139617-31892687.html" target="_blank">胡学明当选天津市河西区区长(简历)</a>
+
+
+
+
+</li><li><a href="http://renshi.people.com.cn/n1/2020/1015/c139617-31892793.html" target="_blank">湖北工业大学党委书记、校长调整(简历)</a>
+
+
+</li><li><b><a href="http://fanfu.people.com.cn/" target='_blank'>反腐</a></b><span class="xian">|</span><a href="http://fanfu.people.com.cn/n1/2020/1014/c64371-31890995.html" target="_blank">陕西正厅级干部吴蟒成涉受贿罪被捕</a>
+
+
+</li><li><a href="http://fanfu.people.com.cn/n1/2020/1014/c64371-31890970.html" target="_blank">四川华西集团原副总经理杨硕被提起公诉</a></li><li><b><a href="http://theory.people.com.cn/" target='_blank'>观察</a></b><span class="xian">|</span><a href="http://theory.people.com.cn/n1/2020/1015/c40531-31892475.html" target="_blank">抓住关键环节推进新型基础设施建设</a>
+
+
+
+</li><li><a href="http://theory.people.com.cn/n1/2020/1015/c40531-31892418.html" target="_blank">激励创新为建设知识产权强国提供学理支持</a></li><li><b><a href="http://dangshi.people.com.cn/" target="_blank">党史</a></b><span class="xian">|</span><a href="http://dangshi.people.com.cn/n1/2020/1015/c85037-31892582.html" target="_blank">刘维汉：与敌人同归于尽 26岁牺牲</a>
+
+</li><li><a href="http://dangshi.people.com.cn/n1/2020/1015/c85037-31892567.html" target="_blank">抗美援朝老兵申太恒:与敌军浴血奋战到底</a>
+</li>
+      </ul>
+      <div class="cpc_zt clearfix">
+         <a href="http://cpc.people.com.cn/xuexi/GB/433640/index.html" target="_blank"><img src="/NMediaFile/2020/0828/MAIN202008280857081971330327490.jpg" width="80" height="80" border="0"/></a>
+<a href="http://jhsjk.people.cn/" target="_blank">习近平系列重要讲话数据库</a><br /><a href="http://cpc.people.com.cn/xuexi/" target="_blank">学习路上</a>|<a href="http://cpc.people.com.cn/GB/64192/105996/390438/index.html" target="_blank">报道日历</a>|<a href="http://www.qstheory.cn/zt2020/llxjj/index.htm" target="_blank">理上网来</a><br /><a href="http://dangjian.people.com.cn/GB/136058/429005/index.html" target="_blank">基层党建创新案例</a>|<a href="http://cpc.people.com.cn/GB/67481/430913/index.html" target="_blank">红色老区</a><br />
+      </div>
+     </div>
+  </section>
+  <!--通栏广告2-->
+  <div class="banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|tonglan2&db=people&border=0&local=yes&js=ie' charset='gbk'></script></div>
+  <!--通栏板块E-->
+  <section class="w1000 cont_e clearfix">
+    <!--内容板块_财经-->
+    <div class="box fl" id="rmw_caijing">
+      <h3 style="height:21px;"><span style="margin-right:15px;"><a href="http://finance.people.com.cn/">财经</a></span><span><a href="http://industry.people.com.cn/">产经</a></span><em class="gimg ggtu" style="width:131px; height:40px; overflow:hidden; margin-top:-12px; *margin-top:-37px;">
+      <!--<img src="/img/2019peopleindex/images/tbgg/jd.png">-->
+      </em></h3>
+      <p class="bigimgstyle">
+      <a href="http://finance.people.com.cn/n1/2020/1015/c1004-31892320.html" target="_blank"><img src="/NMediaFile/2020/0623/MAIN202006230815459748922980942.jpg" width="275" height="160" border="0" alt="央行：前三季度住户存款增加9.95万亿元"/></a><span><a href="http://finance.people.com.cn/n1/2020/1015/c1004-31892320.html" target="_blank">央行：前三季度住户存款增加9.95万亿元</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href="http://finance.people.com.cn/n1/2020/1015/c1004-31892322.html" target="_blank">商务部:外贸回稳向好 带动就业人数达1.8亿</a></li><li><a href="http://finance.people.com.cn/n1/2020/1015/c1004-31892318.html" target="_blank">进博会:销售合理数量展品可享税收优惠</a></li><li><a href="http://industry.people.com.cn/n1/2020/1015/c413883-31892636.html" target="_blank">提升区域协调发展质量</a></li><li><a href="http://finance.people.com.cn/n1/2020/1015/c1004-31892335.html" target="_blank">美欧航空补贴争端难平</a> <a href="http://finance.people.com.cn/n1/2020/1015/c1004-31892319.html" target="_blank">升级还是有解？</a></li>
+      </ul>
+    </div>
+    <!--内容板块_国际-->
+    <div class="box fl ml35" id="rmw_guoji">
+      <h3><span style="margin-right:10px;"><a href="http://world.people.com.cn/">国际</a></span><span style="margin-right:5px;"><a href="http://ydyl.people.com.cn/">一带一路</a></span><em class="gimg" style="width:100px; height:32px; overflow:hidden; margin-top:-8px; *margin-top:-28px;"><a href="http://www.people.cn/rmzy/download.html"><img src="/img/2016people/images/tubiao/zhiyunp.png" width="100" height="32"></a></em></h3>
+      <p class="bigimgstyle">
+      <a href="http://world.people.com.cn/n1/2020/1015/c1002-31892759.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150842091999131909042.jpg" width="275" height="160" border="0" alt="日本万圣节气氛渐浓 南瓜灯梦幻亮灯"/></a><span><a href="http://world.people.com.cn/n1/2020/1015/c1002-31892759.html" target="_blank">日本万圣节气氛渐浓 南瓜灯梦幻亮灯</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://world.people.com.cn/n1/2020/1014/c1002-31892027.html' target="_blank">卢旺达企业家:在中国学电商改变我的命运</a></li>
+<li><a href='http://world.people.com.cn/n1/2020/1015/c1002-31892299.html' target="_blank">中国和乌兹别克斯坦举行"丝路电商"交流会</a></li>
+<li><a href='http://world.people.com.cn/n1/2020/1015/c1002-31892415.html' target="_blank">出生率下降 韩国预计2032年起兵源不足</a></li>
+<li><a href='http://world.people.com.cn/n1/2020/1015/c1002-31892400.html' target="_blank">以色列和美国空军举行联合军事演习</a></li>
+
+      </ul>
+    </div>
+    <!--内容板块_视频新闻-->
+    <div class="box fr">
+      <h3 class="tab"><span class="active"><a href="http://v.people.cn/">视频新闻</a></span><span><a href="http://unn.people.com.cn/GB/393135/index.html">地方新闻</a></span><em class="gimg" style="width:55px; height:48px; overflow:hidden; margin-top:-17px; *margin-top:-37px;"><a href="https://coo.people.cn/" target="_blank"><img src="/img/2019peopleindex/images/tbgg/zhizuo.jpg" width="55" height="48"></a></em></h3>
+      <div class="tv tablist" id="rmw_shipin" style='display:block'>
+        <ul class="tvimg clearfix">
+          <li><a href="https://apiapp.people.cn/a/a/m/content_wap_295790.shtml" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150841081542042675112.jpg" width="125" height="95" border="0" alt="直击保障尖兵比武"/></a><p><span class="tvicon"></span><a href=" https://apiapp.people.cn/a/a/m/content_wap_295790.shtml">直击保障尖兵比武</a></p></li>
+<li><a href="https://apiapp.people.cn/a/a/m/content_wap_295823.shtml" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150840054697316207043.jpg" width="125" height="95" border="0" alt="小毽子玩出大花样"/></a><p><span class="tvicon"></span><a href=" https://apiapp.people.cn/a/a/m/content_wap_295823.shtml">小毽子玩出大花样</a></p></li>
+
+        </ul>
+        <ul class="tvlist14">
+          <li><a href="https://apiapp.people.cn/a/a/m/content_wap_295703.shtml" target="_blank">国台办回应台湾间谍窃密案：证据确凿</a></li><li><a href="https://apiapp.people.cn/a/a/m/content_wap_295822.shtml" target="_blank">致敬英雄！那些银幕上的抗美援朝记忆</a></li><li><a href="https://apiapp.people.cn/a/a/m/content_wap_295881.shtml" target="_blank">蒙古国捐赠的3万只羊已进入隔离区</a></li><li><a href="https://apiapp.people.cn/a/a/m/content_wap_295833.shtml" target="_blank">高中生唱跳rap版《阿房宫赋》火爆网络</a></li><li><a href="https://apiapp.people.cn/a/a/m/content_wap_295716.shtml" target="_blank">实至名归！盲人女孩天籁之音获国际奖</a></li><li><a href="https://apiapp.people.cn/a/a/m/content_wap_295707.shtml" target="_blank">山东高三学生用7国语言播报天气</a></li>
+        </ul>
+      </div>
+      <div class="tablist" id="rmw_difang" style='display:none'>
+        <ul class="list14">
+          <li><a href='http://unn.people.com.cn/n1/2020/1015/c14717-31893557.html' target="_blank">多地公布供暖时间 部分地区提前送热</a></li>
+<li><a href='http://leaders.people.com.cn/n1/2020/1015/c58278-31892635.html' target="_blank">北京西城区将督查餐饮机构“光盘行动”</a></li>
+<li><a href='http://leaders.people.com.cn/n1/2020/1015/c58278-31892669.html' target="_blank">山西推省级政策性农业保险试点等举措</a></li>
+<li><a href='http://leaders.people.com.cn/n1/2020/1015/c58278-31892851.html' target="_blank">浙沪居民迁户口不用两头跑</a></li>
+<li><a href='http://unn.people.com.cn/n1/2020/1014/c14717-31892143.html' target="_blank">特区建设者：续写更多“春天的故事”</a></li>
+<li><a href="http://sz.people.com.cn/GB/203418/398811/index.html" target="_blank">专题|深圳经济特区建立40周年庆祝大会</a></li><li><a href="	
+http://fj.people.com.cn/n2/2020/1015/c181466-34352084.html" target="_blank">以法治促善治 打造营商环境“鼓楼样板”</a></li><li><a href="http://sc.people.com.cn/n2/2020/1015/c345167-34351988.html">四川救人牺牲民警警号将永久封存</a></li><li><a href="	
+http://hlj.people.com.cn/n2/2020/1015/c220024-34350933.html" target="_blank">“龙江稻，世界粮”黑土地出好稻</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <!--通栏广告3-->
+  <div class="banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|tonglan3&db=people&border=0&local=yes&js=ie' charset='gbk'></script></div>
+  <!--通栏板块F-->
+  <section class="w1000 cont_f clearfix">
+    <!--内容板块_文娱-->
+    <div class="box fl" id="rmw_wenyu">
+      <h3><span style="margin-right:15px;"><a href="http://culture.people.com.cn/">文化</a></span><span><a href="http://ent.people.com.cn/">娱乐</a></span><em class="gimg" style="width:120px; height:34px; overflow:hidden; margin-top:-8px; *margin-top:-28px;"><a href="https://visual.people.cn/"><img src="/img/2019peopleindex/images/tubiao/shijue.png" width="120" height="34"></a></em></h3>
+      <p class="bigimgstyle">
+      <a href="http://culture.people.com.cn/n1/2020/1015/c1013-31892409.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150842584795732362361.png" width="275" height="160" border="0" alt="坚定文化自信 展现中国底气"/></a><span><a href="http://culture.people.com.cn/n1/2020/1015/c1013-31892409.html" target="_blank">坚定文化自信 展现中国底气</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://culture.people.com.cn/n1/2020/1015/c1013-31892488.html' target="_blank">文化是城市最高和最终的价值</a></li>
+<li><a href='http://culture.people.com.cn/n1/2020/1015/c1013-31892489.html' target="_blank">云上的图书博览会在继续</a></li>
+<li><a href='http://ent.people.com.cn/n1/2020/1015/c1012-31892633.html' target="_blank">“青年音乐家奖”授予十位青年小提琴家</a></li>
+<li><a href='http://ent.people.com.cn/n1/2020/1015/c1012-31892654.html' target="_blank">《2019阅兵盛典》公益放映获好评</a></li>
+
+      </ul>
+    </div>
+    <!--内容板块_体育-->
+    <div class="box fl ml35" id="rmw_tiyu">
+      <h3><a href="http://sports.people.com.cn/"><img src="/img/2019peopleindex/images/logo/lg_sports.png" width="122" height="32" style="margin-top:-15px;"></a><em class="gimg" style="width:117px; height:48px; overflow:hidden; margin-top:-17px; *margin-top:-37px;">
+      <div id="tiyu_gd"><ul><li><a href="http://sports.people.com.cn/n1/2019/1209/c202403-31497696.html" target=_blank><img src="/NMediaFile/2020/0811/MAIN202008111404036335515010316.jpg" width="117" height="48"/></a></li>
+<li><a href="http://sports.people.com.cn/GB/31928/432963/index.html" target=_blank><img src="/NMediaFile/2020/0628/MAIN202006280954540708078103641.jpg" width="117" height="48"/></a></li>
+<li><a href="http://sports.people.com.cn/GB/430573/433735/index.html" target=_blank><img src="/NMediaFile/2020/1010/MAIN202010100933045798727216955.jpg" width="117" height="48"/></a></li>
+<li><a href="http://sports.people.com.cn/GB/407727/430956/index.html" target=_blank><img src="/NMediaFile/2020/0109/MAIN202001090852127396464679040.jpg" width="117" height="48"/></a></li>
+</ul></div>
+<script type="text/javascript">
+$(document).ready(function(){
+try{
+	$("#tiyu_gd").jCarouselLite({
+	speed: 1000,
+	auto: 3000,
+	visible:1,
+	vertical:true
+    });
+}catch(e){}
+})
+</script>
+      </em></h3>
+      <p class="bigimgstyle">
+      <a href="http://sports.people.com.cn/cba/n1/2020/1015/c434000-31892901.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150921366260127994656.jpg" width="275" height="160" border="0" alt="CBA季前赛-北京首钢83-79险胜福建"/></a><span><a href="http://sports.people.com.cn/cba/n1/2020/1015/c434000-31892901.html" target="_blank">CBA季前赛-北京首钢83-79险胜福建</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://sports.people.com.cn/cba/n1/2020/1014/c434000-31891878.html' target="_blank">金台球探：CBA新赛季“不负所爱”</a></li>
+<li><a href='http://sports.people.com.cn/n1/2020/1015/c14820-31892290.html' target="_blank">少儿足球需要精心呵护（体坛观澜）</a></li>
+<li><a href='http://sports.people.com.cn/n1/2020/1015/c14820-31892289.html' target="_blank">中国攀岩联赛总决赛多人成绩超世界纪录</a></li>
+<li><a href='http://sports.people.com.cn/n1/2020/1014/c382934-31891081.html' target="_blank">《深化新时代教育评价改革总体方案》公布</a></li>
+
+      </ul>
+    </div>
+    <!--内容板块_热点新闻排行-->
+    <div class="box fr">
+      <h3 class="tab_new"><span class="active" title="热点新闻"><a href="http://news.people.com.cn/GB/28053/index.html">热点新闻</a></span><span title="猜你喜欢">猜你喜欢</span></h3>
+      <ul class="list14 tab_new_list" id="rmw_hotnew" style="display:block">
+         <li><a href="http://politics.people.com.cn/n1/2020/1014/c1001-31890710.html" target="_blank">国务院派出14个督查组赴京沪等地实地督查</a></li><li><a href="http://finance.people.com.cn/n1/2020/1014/c1004-31890722.html" target="_blank">进出口好于预期 前三季度进出口增长0.7%</a></li><li><a href="http://society.people.com.cn/n1/2020/1014/c1008-31890678.html" target="_blank">国家组织药品集采成效显著 年节约539亿元</a></li><li><a href="http://finance.people.com.cn/n1/2020/1014/c1004-31890707.html" target="_blank">2020中国企业500强公布 千亿级首破200家</a></li><li><a href="http://society.people.com.cn/n1/2020/1014/c1008-31890679.html" target="_blank">健康加油饮食减油 多部门发起"减油"倡议</a></li>
+      </ul>
+      <ul class="list14 tab_new_list cai" id="rmw_like" style="display:none">
+         <li><a href="http://politics.people.com.cn/n1/2020/1014/c1001-31890710.html" target="_blank">国务院派出14个督查组赴京沪等地实地督查</a></li><li><a href="http://finance.people.com.cn/n1/2020/1014/c1004-31890722.html" target="_blank">进出口好于预期 前三季度进出口增长0.7%</a></li><li><a href="http://society.people.com.cn/n1/2020/1014/c1008-31890678.html" target="_blank">国家组织药品集采成效显著 年节约539亿元</a></li><li><a href="http://finance.people.com.cn/n1/2020/1014/c1004-31890707.html" target="_blank">2020中国企业500强公布 千亿级首破200家</a></li><li><a href="http://society.people.com.cn/n1/2020/1014/c1008-31890679.html" target="_blank">健康加油饮食减油 多部门发起"减油"倡议</a></li>
+      </ul>
+      <div class="title clearfix"><span>专题</span><div id="chinaso_search"></div></div>
+      <ul class="list14" id="rmw_zhuanti">
+         <li><a href="http://politics.people.com.cn/GB/8198/433258/index.html" target="_blank">纪念抗战胜利75周年</a> <a href="http://ddkz.people.cn/GB/index.html">大道康庄调研行</a> </li><li><a href="http://finance.people.com.cn/GB/8215/431747/433950/index.html" target="_blank">回首"十三五"喜看新成就</a></li><li><a href="http://finance.people.com.cn/GB/8215/431747/433234/index.html">六稳六保</a> <a href="http://society.people.com.cn/GB/369130/433466/index.html">浪费可耻 节约为荣</a></li><li><a href="http://lianghui.people.com.cn/2020/" target="_blank">全国两会</a> <a href="http://finance.people.com.cn/GB/8215/431747/433623/index.html" target="_blank">行走自贸区</a> <a href="http://cpc.people.com.cn/GB/67481/432875/index.html" target="_blank">脱贫攻坚高原行</a></li><li><a href="http://www.people.com.cn/n1/2020/0619/c420117-31752969.html" target="_blank">人民网2020年度有奖用户调查</a></li>
+      </ul>
+    </div>
+  </section>
+  <!--通栏推荐-->
+  <section class="w1000 cont_banner">
+    <div class="fl">
+     <script type="text/javascript" src="http://pmm.people.com.cn/main/s?user=people|2016people|juxing03&db=people&border=0&local=yes&js=ie" charset="gbk"></script>
+    </div>
+    <div class="fl ml35">
+     <div style="width:155px;float:left;">
+		<iframe marginheight="0" marginwidth="0" frameborder="0" width="155" height="90" scrolling="no" src="http://pmm.people.com.cn/main/s?user=people|2016people|D_icon_left&db=people&border=0&local=yes "></iframe>
+     </div>
+     <div style="width:155px;float:right;">
+		<iframe marginheight="0" marginwidth="0" frameborder="0" width="155" height="90" scrolling="no" src="http://pmm.people.com.cn/main/s?user=people|2016people|D_icon_right&db=people&border=0&local=yes "></iframe>
+     </div>
+    </div>
+    <div class="fr city zh_box_gg">
+      <img src="http://www.people.com.cn/adv/adhint.gif" class="gg_icon" style="top:0px;" />
+      <!--AdForward Begin:-->
+<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|D_icon_textlink&db=people&border=0&local=yes&js=ie' charset='gbk'></script><!--AdForward End-->
+    </div>
+  </section>
+  <!--通栏板块G-->
+  <section class="w1000 cont_g clearfix">
+    <!--内容板块_地方领导留言板-->
+    <div class="box fl" id="rmw_lingdao">
+      <h3 class="imgtitle"><a href="http://liuyan.people.com.cn/"><img src="/img/2016people/images/tubiao/ldlyb.png" alt=""></a><em class="gimg" style="font-size:14px; font-style:normal; line-height:30px"><a href="http://leaders.people.com.cn/GB/178291/407226/index.html" target="_blank">客户端下载</a></em></h3>
+      <h2><a href='http://leaders.people.com.cn/GB/178291/218130/433734/index.html' ><strong>来，为家乡“十四五”规划编制献一策</strong></a>
+</h2>
+      <ul class="list14">
+         <li><a href="http://liuyan.people.com.cn/threads/content?tid=8416916" target="_blank">建议环保督察多实地监测 听听群众意见</a></li><li><a href="http://liuyan.people.com.cn/threads/content?tid=8421374" target="_blank">三线县市新区规划建设有隐患</a></li><li><a href="http://liuyan.people.com.cn/threads/content?tid=8414503" target="_blank">民营书店销售课本行为受罚 能否改改？</a></li><li><a href="http://leaders.people.com.cn/GB/178291/218130/426483/index.html" target="_blank">拉响安全警报 国务院安委办邀您留言</a></li><li><a href='http://leaders.people.com.cn/GB/178291/218130/433519/index.html' >您身边存在餐饮浪费现象吗？来这曝光</a></li>
+<li><a href='http://leaders.people.com.cn/GB/178291/218130/433767/index.html' >垃圾分类，如何更有效动起来？来谈谈</a></li>
+
+      </ul>
+      <div class="citynote">
+      	<p><b>最新回复</b><span class="xian">|</span><a href="http://liuyan.people.com.cn/threads/content?tid=8306565" target="_blank">云南彝良网友反映群众家中停水问题 答复：系水管破裂 已维修处理</a></p>
+        <div class="citynote">
+        <p>昨日留言<span id="threadsNum"></span>条&nbsp;回复<span id="answersNum"></span>条</p>
+        <p class="select_c"><select id="s1" name="s1" onchange="getS2(this.value,'s2');"><option value="">请选择</option><option value="4">北京市</option><option value="5">天津市</option><option value="6">河北省</option><option value="17">山西省</option><option value="18">内蒙古自治区</option><option value="8">辽宁省</option><option value="9">吉林省</option><option value="10">黑龙江省</option><option value="12">上海市</option><option value="13">江苏省</option><option value="14">浙江省</option><option value="19">安徽省</option><option value="20">福建省</option><option value="21">江西省</option><option value="22">山东省</option><option value="27">河南省</option><option value="28">湖北省</option><option value="29">湖南省</option><option value="30">广东省</option><option value="31">广西壮族自治区</option><option value="32">海南省</option><option value="33">重庆市</option><option value="34">四川省</option><option value="35">贵州省</option><option value="36">云南省</option><option value="37">西藏自治区</option><option value="41">陕西省</option><option value="42">甘肃省</option><option value="43">青海省</option><option value="44">宁夏回族自治区</option><option value="45">新疆维吾尔自治区</option><option value="38">香港特别行政区</option><option value="39">澳门特别行政区</option></select>&gt;<select id="s2" name="s2"><option value="">请选择</option></select>&gt;<select id="s3" name="s3"><option value="">请选择</option></select></p>
+        <!--onchange="getS3(this.value,'s3')"-->
+        <p><input type="button" value="我要留言" class="ly_button" onclick="javascript:window.open('http://liuyan.people.com.cn/post.php');"><input type="button" value="查看留言" class='ck_button' onclick="javascript:jumpPage();"></p>
+      </div>
+      </div>
+    </div>
+    <!--内容板块_强国社区-->
+    <div class="box fl ml35" id="rmw_qiangguo">
+      <h3><a href="http://bbs1.people.com.cn/">强国论坛</a></h3>
+      <h2><a href="http://bbs1.people.com.cn/post/2/1/2/177029272.html" target="_blank"><b>乡镇年轻干部得看得见“琐碎”，听得进“牢骚”</b></a></h2>
+      <ul class="list14">
+         <li><a href="http://bbs1.people.com.cn/post/2/2/1/177028771.html" target="_blank">努力成为能解决实际问题的年轻干部
+</a></li><li><a href="http://bbs1.people.com.cn/post/2/1/2/177025981.html" target="_blank">关注青少年近视 摘眼镜要从娃娃抓起</a></li><li><a href="http://bbs1.people.com.cn/post/1/1/2/177027657.html" target="_blank">炉霍县吉绒村:变"贫瘠"土地为"软黄金"</a></li><li><a href="http://bbs1.people.com.cn/post/2/1/2/177027946.html" target="_blank">
+党员干部考察任用应突出这“三个字”</a></li><li><a href="http://www.people.com.cn/n1/2020/1015/c32306-31893442.html" target="_blank">	
+特别关注｜廉洁文化润京秋</a></li>
+      </ul>
+      <h2><a href="	
+http://bbs1.people.com.cn/post/1/2/1/177029739.html" target="_blank"><b>9月CPI今日公布：涨幅或时隔18个月回归“1时代”</b></a></h2>
+      <ul class="list14 clearfix"><li><a href="http://bbs1.people.com.cn/post/1/2/1/177029783.html" target="_blank">计划招录2.57万人 2021年度国考今起报名</a></li><li><a href="http://bbs1.people.com.cn/post/1/2/1/177029764.html" target="_blank">	
+红包来了! 数字人民币比微信支付宝好用吗?</a></li><li><a href="http://bbs1.people.com.cn/post/1/2/1/177029793.html" target="_blank">扫码看病、穿越问诊 健康中国有了摩登范儿</a></li><li><a href="http://bbs1.people.com.cn/post/1/2/1/177029790.html" target="_blank">芯片人才紧缺 专家:人才培养提速刻不容缓
+</a></li><li><a href="http://bbs1.people.com.cn/post/1/1/2/177029647.html" target="_blank">变质酸汤子含毒素 食品安全不能马虎</a></li></ul>      
+    </div>
+    <!--内容板块容器-->
+    <div class="gbox fr">
+        <!--内容板块_人民访谈-->
+        <div class="box" id="rmw_fangtan">
+          <h3><a href="http://fangtan.people.com.cn/"><span class="rmicon"></span>访谈</a></h3>
+          <p class="imgstyle"><a href="http://www.people.com.cn/32306/432845/433886/index.html" target="_blank"><img src="/NMediaFile/2020/1013/MAIN202010130923485505235007580.jpg" width="130" height="90" border="0" alt="人民网联合国资委新闻中心推出“对话新国企·大道康庄”系列访谈，聚焦央企精准扶贫责任担当。&#13;［阅读] "/></a>人民网联合国资委新闻中心推出“对话新国企·大道康庄”系列访谈，聚焦央企精准扶贫责任担当。
+<a href="http://www.people.com.cn/32306/432845/433886/index.html" target="_blank">［阅读] </a>
+
+          </p>
+          <ul class="list14">
+             <li><a href='/n1/2020/1014/c32306-31891780.html' target="_blank">裴岷山:改善交通战贫穷 扶持就业促发展</a></li>
+<li><a href='/n1/2020/1013/c32306-31890491.html' target="_blank">宋瑞林:四面发力实现精准帮扶</a></li>
+<li><a href='/n1/2020/1012/c32306-31888995.html' target="_blank">杨长利:既要“口袋富“又要“脑袋富”</a></li>
+
+          </ul>
+        </div>
+        <div class="box" style="border-top:none;padding:0 15px 5px 15px; height:319px;">
+        <div class="bbs_face">
+        <ul><li><a href="http://www.people.com.cn/n1/2020/0927/c32306-31876986.html" target="_blank"><img src="/NMediaFile/2020/0929/MAIN202009291056539317509410365.jpg" width="80" height="80" border="0" alt="全国政协经济委员会副主任刘世锦&quot;十四五&quot;要加速推进中国绿色高质量发展”[阅读]"/></a><b style="color: black;">全国政协经济委员会副主任</b><div style="color: black;"><b>刘世锦</b></div><div style="">"十四五"要加速推进中国绿色高质量发展”<a href="http://www.people.com.cn/n1/2020/0927/c32306-31876986.html" style="" target="_blank"><font color="#ff0000">[阅读]</font></a></div></li>
+<li><a href="http://www.people.com.cn/n1/2020/0925/c32306-31875467.html" target="_blank"><img src="/NMediaFile/2020/0929/MAIN202009291123309757237223778.jpg" width="80" height="80" border="0" alt="全国政协常委、中科院院士袁亚湘科研立足应用，基础科学研究必须有的放矢[阅读]"/></a><b style="color: black;">全国政协常委、中科院院士</b><div style="color: black;"><b>袁亚湘</b></div><div style="">科研立足应用，基础科学研究必须有的放矢<a href="http://www.people.com.cn/n1/2020/0925/c32306-31875467.html" style="" target="_blank"><font color="#ff0000">[阅读]</font></a></div></li>
+<li><a href=" http://www.people.com.cn/n1/2020/0925/c32306-31874856.html" target="_blank"><img src="/NMediaFile/2020/0929/MAIN202009291110558718290522800.jpg" width="80" height="80" border="0" alt="中国科学院院士余梦伦加强基础研究，解决“卡脖子”技术问题[阅读]"/></a><b style="color: black;">中国科学院院士</b><div style="color: black;"><b>余梦伦</b></div><div style="">加强基础研究，解决“卡脖子”技术问题<a href="	
+http://www.people.com.cn/n1/2020/0925/c32306-31874856.html" style="" target="_blank"><font color="#ff0000">[阅读]</font></a></div></li>
+</ul>
+      </div>
+        </div>
+    </div>
+  </section>
+  <!--通栏广告4-->
+  <div class="banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|tonglan4&db=people&border=0&local=yes&js=ie' charset='gbk'></script></div>
+  <!--通栏板块H-->
+  <section class="w1000 cont_h clearfix">
+    <!--内容板块_健康-->
+    <div class="box boxlist fl" id="19"><div id="rmw_dz_jk">
+      <h3><span class="rmicon"></span><a href="http://health.people.com.cn/">健康</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://health.people.com.cn/n1/2020/1015/c14739-31892518.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150822580920231069473.jpg" width="275" height="160" border="0" alt="秋风起螃蟹肥,那些吃蟹&quot;禁忌&quot;真的假的?"/></a><span><a href="http://health.people.com.cn/n1/2020/1015/c14739-31892518.html" target="_blank">秋风起螃蟹肥,那些吃蟹"禁忌"真的假的?</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://health.people.com.cn/n1/2020/1015/c14739-31893725.html' target="_blank">"北京京惠保"发布 助力构建多层次医保体系</a></li>
+<li><a href='http://health.people.com.cn/n1/2020/1015/c14739-31892973.html' target="_blank">科普：多国新冠疫情反弹 “第二波”疫情到来？</a></li>
+<li><a href='http://health.people.com.cn/n1/2020/1015/c14739-31892929.html' target="_blank">北京市对入境进京人员实行3次核酸检测</a></li>
+<li><a href='http://health.people.com.cn/n1/2020/1015/c14739-31892769.html' target="_blank">贫困人员社保“应保尽保”</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_科普-->
+    <div class="box boxlist fl ml35" id="4"><div id="rmw_dz_kp">
+      <h3><a href="http://kpzg.people.com.cn/">科普</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://lxjk.people.cn/n1/2020/1015/c404177-31892428.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150836252505030440973.jpg" width="275" height="160" border="0" alt="洗手有时比戴口罩重要！这些情况必须洗手"/></a><span><a href="http://lxjk.people.cn/n1/2020/1015/c404177-31892428.html" target="_blank">洗手有时比戴口罩重要！这些情况必须洗手</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://lxjk.people.cn/n1/2020/1015/c404177-31892408.html' target="_blank">肿瘤筛查有必要做吗？首先你得学会选择</a></li>
+<li><a href='http://lxjk.people.cn/n1/2020/1015/c404177-31892595.html' target="_blank">晚饭时间吃不对，当心引发“过劳病”</a></li>
+
+         <li><a href='http://scitech.people.com.cn/n1/2020/1015/c1007-31892699.html' target="_blank">活得更聪明？ “城市大脑”绘制智慧生活</a></li>
+<li><a href='http://scitech.people.com.cn/n1/2020/1015/c1007-31892456.html' target="_blank">2024年将宇航员送上月球 分三步走</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_教育-->
+    <div class="box boxlist fr" id="3"><div id="rmw_dz_jy">
+      <h3><a href="http://edu.people.com.cn/">教育</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://edu.people.com.cn/n1/2020/1015/c1053-31892702.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150842272643599705561.png" width="275" height="160" border="0" alt="打赢精准脱贫攻坚战 奏响教育帮扶交响曲"/></a><span><a href="http://edu.people.com.cn/n1/2020/1015/c1053-31892702.html" target="_blank">打赢精准脱贫攻坚战 奏响教育帮扶交响曲</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://edu.people.com.cn/n1/2020/1015/c1053-31892599.html' target="_blank">2021年度“国考”将向重点人群倾斜</a></li>
+<li><a href='http://edu.people.com.cn/n1/2020/1015/c1053-31892517.html' target="_blank">叶仁荪：抓住教育评价改革的关键</a></li>
+<li><a href='http://edu.people.com.cn/n1/2020/1015/c1053-31892737.html' target="_blank">“用普通话教学，这条路走对了！”</a></li>
+<li><a href='http://edu.people.com.cn/n1/2020/1015/c1053-31892740.html' target="_blank">加强疫情防范：留学千万条 安全第一条</a></li>
+
+      </ul>
+    </div></div>
+    <!--通栏广告5-->
+    <div class="banner banner5"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|tonglan5&db=people&border=0&local=yes&js=ie' charset='gbk'></script></div>
+    <!--内容板块_军事-->
+    <div class="box boxlist fl" id="5"><div id="rmw_dz_js">
+      <h3><a href="http://military.people.com.cn/">军事</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://military.people.com.cn/n1/2020/1015/c1011-31893023.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150940009841105658579.jpg" width="275" height="160" border="0" alt="中国海军第35批护航编队凯旋"/></a><span><a href="http://military.people.com.cn/n1/2020/1015/c1011-31893023.html" target="_blank">中国海军第35批护航编队凯旋</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://military.people.com.cn/n1/2020/1015/c1011-31893028.html' target="_blank">内蒙古军地联合推动“清洁供暖”进边关</a></li>
+<li><a href='http://military.people.com.cn/n1/2020/1015/c1011-31892226.html' target="_blank">以色列和美国空军举行联合军演</a></li>
+<li><a href='http://military.people.com.cn/n1/2020/1015/c1011-31893033.html' target="_blank">日本新型潜艇“大鲸”号下水</a></li>
+<li><a href='http://military.people.com.cn/n1/2020/1015/c1011-31893035.html' target="_blank">叙政府军与伊朗支持的民兵武装爆发冲突</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_传媒-->
+    <div class="box boxlist fl ml35" id="8"><div id="rmw_dz_cm">
+      <h3><a href="http://media.people.com.cn/">传媒</a>&nbsp;&nbsp;<a href="http://ip.people.com.cn/">知识产权</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://media.people.com.cn/n1/2020/1015/c40606-31892345.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150749549014946484941.jpg" width="275" height="160" border="0" alt="释放数字活力 共享数字红利"/></a><span><a href="http://media.people.com.cn/n1/2020/1015/c40606-31892345.html" target="_blank">释放数字活力 共享数字红利</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://media.people.com.cn/n1/2020/1015/c40606-31892337.html' target="_blank">卖惨吸粉赚流量 如此"慈善直播"当休矣</a></li>
+<li><a href='http://media.people.com.cn/n1/2020/1015/c40606-31892355.html' target="_blank">爱看吃播的你，看的可能只是寂寞</a></li>
+<li><a href='http://media.people.com.cn/n1/2020/1015/c40606-31892354.html' target="_blank">创业剧：记录时代的中国创业故事激奋人心</a></li>
+<li><a href='http://media.people.com.cn/n1/2020/1015/c40606-31892385.html' target="_blank">"假靳东"骗中老年粉丝 明星高仿账号需整治</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_书画-->
+    <div class="box boxlist fr" id="12"><div id="rmw_dz_art">
+      <h3><a href="http://art.people.com.cn/">书画</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://art.people.com.cn/" target="_blank"><img src="/NMediaFile/2020/1014/MAIN202010140831422573350058605.jpg" width="275" height="160" border="0" alt="国宝妇好鸮尊：三千年前的“私人定制”"/></a><span><a href="http://art.people.com.cn/" target="_blank">国宝妇好鸮尊：三千年前的“私人定制”</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://art.people.com.cn/n1/2020/1014/c41426-31890845.html' target="_blank">《冰心捐赠书画展》举办</a></li>
+<li><a href='http://art.people.com.cn/n1/2020/1014/c41426-31890843.html' target="_blank">中国动漫金龙奖揭晓</a></li>
+<li><a href='http://art.people.com.cn/n1/2020/1014/c41426-31890908.html' target="_blank">2020亚洲社会设计展在鲁美开展</a></li>
+<li><a href='http://art.people.com.cn/n1/2020/1014/c41426-31890844.html' target="_blank">三星堆新馆邀你来设计</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_美丽乡村-->
+    <div class="box boxlist fl" id="31"><div id="rmw_dz_mlxc">
+      <h3><a href="http://country.people.com.cn/">美丽乡村</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://country.people.com.cn/n1/2020/1014/c419842-31891294.html" target="_blank"><img src="/NMediaFile/2020/1014/MAIN202010140851236754728609163.jpg" width="275" height="160" border="0" alt="高楼间的稻田"/></a><span><a href="http://country.people.com.cn/n1/2020/1014/c419842-31891294.html" target="_blank">高楼间的稻田</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://country.people.com.cn/n1/2020/1015/c419842-31892882.html' target="_blank">农业农村部：832个贫困县产业扶贫项目超100万个</a></li>
+<li><a href='http://country.people.com.cn/n1/2020/1015/c419842-31892363.html' target="_blank">袁隆平“超优千号”创盐碱地水稻高产新纪录</a></li>
+<li><a href='http://rmfp.people.com.cn/n1/2020/1015/c406725-31893533.html' target="_blank">探索社会扶贫新途径 碧桂园助力挂牌督战</a></li>
+<li><a href='http://country.people.com.cn/n1/2020/1015/c419842-31892473.html' target="_blank">上河村的林子更美了</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_汽车-->
+    <div class="box boxlist fl ml35" id="14"><div id="rmw_dz_qc">
+      <h3><a href="http://auto.people.com.cn/">汽车</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://auto.people.com.cn/n1/2020/1015/c1005-31892758.html" target="_blank"><img src="/NMediaFile/2020/1012/MAIN202010120911176553901619386.jpg" width="275" height="160" border="0" alt="九月份汽车产销双创年内新高"/></a><span><a href="http://auto.people.com.cn/n1/2020/1015/c1005-31892758.html" target="_blank">九月份汽车产销双创年内新高</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://auto.people.com.cn/n1/2020/1015/c1005-31892799.html' target="_blank">新能源市场迎强势回暖 </a></li>
+<li><a href='http://auto.people.com.cn/n1/2020/1015/c1005-31892796.html' target="_blank">8月进口车销量现年内首增</a></li>
+<li><a href='http://auto.people.com.cn/n1/2020/1015/c1005-31892734.html' target="_blank">9分钟充电80% 电动车“快充”成为可能</a></li>
+<li><a href='http://auto.people.com.cn/n1/2020/1015/c1005-31892741.html' target="_blank">9月新车库存压力大 二手车"淡季不淡"</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_旅游-->
+    <div class="box boxlist fr" id="11"><div id="rmw_dz_ly">
+      <h3><a href="http://travel.people.com.cn/">旅游</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://travel.people.com.cn/n1/2020/1015/c41570-31892306.html" target="_blank"><img src="/NMediaFile/2020/1014/MAIN202010140855596123141044334.jpg" width="275" height="160" border="0" alt="走出景区看风景"/></a><span><a href="http://travel.people.com.cn/n1/2020/1015/c41570-31892306.html" target="_blank">走出景区看风景</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://travel.people.com.cn/n1/2020/1015/c41570-31892794.html' target="_blank">工业遗迹在城市绿心“活”起来</a></li>
+<li><a href='http://travel.people.com.cn/n1/2020/1015/c41570-31892847.html' target="_blank">民宿急功近利虚火旺</a></li>
+<li><a href='http://travel.people.com.cn/n1/2020/1015/c41570-31892307.html' target="_blank">和田夜市香味浓</a></li>
+<li><a href='http://travel.people.com.cn/n1/2020/1015/c41570-31892872.html' target="_blank">巴厘岛提供免费游套餐 试探性重启旅游业</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_时政-->
+    <div class="box boxlist fl" id="1"><div id="rmw_dz_sz">
+      <h3><a href="http://politics.people.com.cn/">时政</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://pic.people.com.cn/n1/2020/1014/c1016-31891864.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150838107999884279161.jpg" width="275" height="160" border="0" alt="爱惜粮食 从我做起"/></a><span><a href="http://pic.people.com.cn/n1/2020/1014/c1016-31891864.html" target="_blank">爱惜粮食 从我做起</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://politics.people.com.cn/n1/2020/1015/c1001-31892231.html' target="_blank">把经济特区办得更好、办得水平更高</a></li>
+<li><a href='http://politics.people.com.cn/n1/2020/1015/c1001-31892233.html' target="_blank">牢记统帅嘱托 锻造精兵劲旅</a></li>
+<li><a href='http://politics.people.com.cn/n1/2020/1014/c1001-31892169.html' target="_blank">国务院第七次大督查拉开序幕</a></li>
+<li><a href='http://politics.people.com.cn/n1/2020/1015/c1001-31892266.html' target="_blank">善用改革思维构建新发展格局</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_社会-->
+    <div class="box boxlist fl ml35" id="2"><div id="rmw_dz_sh">
+      <h3><a href="http://society.people.com.cn/">社会</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://society.people.com.cn/n1/2020/1015/c1008-31892264.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150842235299395661243.jpg" width="275" height="160" border="0" alt="村卫生室&quot;飞&quot;来大学生村医"/></a><span><a href="http://society.people.com.cn/n1/2020/1015/c1008-31892264.html" target="_blank">村卫生室"飞"来大学生村医</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://society.people.com.cn/n1/2020/1015/c1008-31892256.html' target="_blank">贫困人员社保“应保尽保”</a></li>
+<li><a href='http://society.people.com.cn/n1/2020/1015/c1008-31892272.html' target="_blank">中国脱贫攻坚调研报告新书发布</a></li>
+<li><a href='http://society.people.com.cn/n1/2020/1015/c1008-31892356.html' target="_blank">快递业备战“双11”：数字化再提速 </a></li>
+<li><a href='http://society.people.com.cn/n1/2020/1015/c1008-31892269.html' target="_blank">全国劳动模范和先进工作者拟表彰人选公示</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_舆情-->
+    <div class="box boxlist fr" id="6"><div id="rmw_dz_yq">
+      <h3><a href="http://yuqing.people.com.cn/">舆情</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://yuqing.people.com.cn/n1/2020/0826/c209043-31838047.html" target="_blank"><img src="/NMediaFile/2020/0826/MAIN202008262031137927743185660.jpg" width="275" height="160" border="0" alt="第四届人民云社会评价科技大会举行"/></a><span><a href="http://yuqing.people.com.cn/n1/2020/0826/c209043-31838047.html" target="_blank">第四届人民云社会评价科技大会举行</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://yuqing.people.com.cn/n1/2020/1013/c209043-31889888.html' target="_blank">舆情引导处置：舆情复盘的三大原则</a></li>
+<li><a href='http://yuqing.people.com.cn/n1/2020/1013/c209043-31889894.html' target="_blank">平台如何聚焦青少年网络生态治理初探</a></li>
+<li><a href='http://yuqing.people.com.cn/n1/2020/1013/c209043-31889884.html' target="_blank">快速研判舆情风险三步法</a></li>
+<li><a href='http://yuqing.people.com.cn/n1/2020/1014/c209043-31891390.html' target="_blank">黑龙江食物中毒事件致八死敲响警钟</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_文化-->
+    <div class="box boxlist fl" id="7"><div id="rmw_dz_wh">
+      <h3><a href="http://culture.people.com.cn/">文化</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://culture.people.com.cn/n1/2020/1015/c1013-31892484.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150857064782779897239.jpg" width="275" height="160" border="0" alt="为人民画像 为大凉山助梦"/></a><span><a href="http://culture.people.com.cn/n1/2020/1015/c1013-31892484.html" target="_blank">为人民画像 为大凉山助梦</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://culture.people.com.cn/n1/2020/1015/c1013-31892490.html' target="_blank">北京书店漫游之旅</a></li>
+<li><a href='http://culture.people.com.cn/n1/2020/1015/c1013-31892487.html' target="_blank">书画共话“西藏印象”</a></li>
+<li><a href='http://culture.people.com.cn/n1/2020/1015/c1013-31892486.html' target="_blank">品读齐白石艺术“此中真味”</a></li>
+<li><a href='http://culture.people.com.cn/n1/2020/1014/c1013-31891086.html' target="_blank">中国民乐界的新探索</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_环保-->
+    <div class="box boxlist fl ml35" id="9"><div id="rmw_dz_hb">
+      <h3><a href="http://env.people.com.cn/">环保</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://env.people.com.cn/n1/2020/1015/c1010-31892825.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151149325385546952528.jpg" width="275" height="160" border="0" alt="广纳百川，方成大江大河"/></a><span><a href="http://env.people.com.cn/n1/2020/1015/c1010-31892825.html" target="_blank">广纳百川，方成大江大河</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://env.people.com.cn/n1/2020/1015/c1010-31893096.html' target="_blank">《2019年全国海水利用报告》发布</a></li>
+<li><a href='http://env.people.com.cn/n1/2020/1015/c1010-31892827.html' target="_blank">上河村的林子更美了</a></li>
+<li><a href='http://env.people.com.cn/n1/2020/1015/c1010-31893079.html' target="_blank">2019年海洋经济运行总体平稳</a></li>
+<li><a href='http://env.people.com.cn/n1/2020/1015/c1010-31893176.html' target="_blank">应对塑料污染 “中国方案”正稳步推进</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_娱乐-->
+    <div class="box boxlist fr" id="10"><div id="rmw_dz_yl">
+      <h3><a href="http://ent.people.com.cn/">娱乐</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://ent.people.com.cn/n1/2020/1015/c1012-31892649.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150904525750376324901.png" width="275" height="160" border="0" alt="《瞄准》：演技没有拖后腿"/></a><span><a href="http://ent.people.com.cn/n1/2020/1015/c1012-31892649.html" target="_blank">《瞄准》：演技没有拖后腿</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://ent.people.com.cn/n1/2020/1015/c1012-31892766.html' target="_blank">丝路电影节“聚焦”青年导演</a></li>
+<li><a href='http://ent.people.com.cn/n1/2020/1015/c1012-31892709.html' target="_blank">江疏影、张萌成都谈“她文化”</a></li>
+<li><a href='http://ent.people.com.cn/n1/2020/1015/c1012-31892797.html' target="_blank">演员请就位？不，演技请先就位！</a></li>
+<li><a href='http://ent.people.com.cn/n1/2020/1014/c1012-31890969.html' target="_blank">意大利电影展在京展映5部佳片</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_时尚-->
+    <div class="box boxlist fl" id="13"><div id="rmw_dz_ss">
+      <h3><a href="http://fashion.people.com.cn/">时尚</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://fashion.people.com.cn/n1/2020/1015/c1014-31892830.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150854272674664921357.jpeg" width="275" height="160" border="0" alt="意大利电影展在京展映5部佳片"/></a><span><a href="http://fashion.people.com.cn/n1/2020/1015/c1014-31892830.html" target="_blank">意大利电影展在京展映5部佳片</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://fashion.people.com.cn/n1/2020/1015/c1014-31892802.html' target="_blank">展现中韩艺术合作的活力</a></li>
+<li><a href='http://fashion.people.com.cn/n1/2020/1015/c1014-31892811.html' target="_blank">品读齐白石艺术“此中真味”</a></li>
+<li><a href='http://fashion.people.com.cn/n1/2020/1015/c1014-31892813.html' target="_blank">北京书店漫游之旅（之三）</a></li>
+<li><a href='http://fashion.people.com.cn/n1/2020/1015/c1014-31892814.html' target="_blank">香港举行“自强不息”国庆文艺晚会</a></li>
+
+      </ul>
+    </div></div>    
+    <!--内容板块_房产-->
+    <div class="box boxlist fl ml35" id="15"><div id="rmw_dz_fc">
+      <h3><a href="http://house.people.com.cn/">房产</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://house.people.com.cn/n1/2020/1015/c164220-31892607.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150916223129816116194.jpg" width="275" height="160" border="0" alt="央行谈房企“三道红线”"/></a><span><a href="http://house.people.com.cn/n1/2020/1015/c164220-31892607.html" target="_blank">央行谈房企“三道红线”</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://house.people.com.cn/n1/2020/1015/c164220-31892593.html' target="_blank">北京写字楼 空置率走高租金下滑</a></li>
+<li><a href='http://house.people.com.cn/n1/2020/1015/c164220-31892603.html' target="_blank">上市房企“金九”报喜 四季度压力仍存</a></li>
+<li><a href='http://house.people.com.cn/n1/2020/1015/c164220-31892956.html' target="_blank">房地产信托募集规模 呈下降趋势</a></li>
+<li><a href='http://house.people.com.cn/n1/2020/1015/c164220-31892962.html' target="_blank">农村宅基地改革不能急躁冒进</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_能源-->
+    <div class="box boxlist fr" id="16"><div id="rmw_dz_ny">
+      <h3><a href="http://energy.people.com.cn/">能源</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://finance.people.com.cn/n1/2020/1014/c1004-31890811.html" target="_blank"><img src="/NMediaFile/2020/1014/MAIN202010140937181102712647195.jpg" width="275" height="160" border="0" alt="浙江四类塑料制品禁限使用"/></a><span><a href="http://finance.people.com.cn/n1/2020/1014/c1004-31890811.html" target="_blank">浙江四类塑料制品禁限使用</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://finance.people.com.cn/n1/2020/1014/c1004-31890806.html' target="_blank">福建 ：电力大数据  助力小康之美</a></li>
+<li><a href='http://finance.people.com.cn/n1/2020/1014/c1004-31890819.html' target="_blank">首个自营深水油田群流花16—2油田群投产 </a></li>
+<li><a href='http://finance.people.com.cn/n1/2020/1014/c1004-31890822.html' target="_blank">31项工程获中国土木工程詹天佑奖</a></li>
+<li><a href='http://energy.people.com.cn/n1/2020/1014/c71661-31890904.html' target="_blank">9月新能源车销量大增99.6%</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_IT-->
+    <div class="box boxlist fl" id="17"><div id="rmw_dz_it">
+      <h3><a href="http://it.people.com.cn/">I T</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://it.people.com.cn/n1/2020/1015/c1009-31892458.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150829196778024131211.jpg" width="275" height="160" border="0" alt="以全新姿态拥抱数字新时代"/></a><span><a href="http://it.people.com.cn/n1/2020/1015/c1009-31892458.html" target="_blank">以全新姿态拥抱数字新时代</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://it.people.com.cn/n1/2020/1015/c1009-31892586.html' target="_blank">释放数字活力 共享数字红利</a></li>
+<li><a href='http://it.people.com.cn/n1/2020/1015/c1009-31892570.html' target="_blank">全面推进数字政府建设正当其时</a></li>
+<li><a href='http://it.people.com.cn/n1/2020/1015/c1009-31892477.html' target="_blank">区块链应用众多难题“卡脖子”</a></li>
+<li><a href='http://it.people.com.cn/n1/2020/1015/c1009-31892396.html' target="_blank">飞行模式能提升手机充电速度 误解！</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_食品-->
+    <div class="box boxlist fl ml35" id="18"><div id="rmw_dz_sp">
+      <h3><a href="http://shipin.people.com.cn/">食品</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://shipin.people.com.cn/n1/2020/1015/c85914-31892945.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150928435581167573242.jpg" width="275" height="160" border="0" alt="喝绿茶吃甘蓝或可防乳腺癌&#13;"/></a><span><a href="http://shipin.people.com.cn/n1/2020/1015/c85914-31892945.html" target="_blank">喝绿茶吃甘蓝或可防乳腺癌
+</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://shipin.people.com.cn/n1/2020/1015/c85914-31892939.html' target="_blank">10月5-11日食用农产品价格小幅回落</a></li>
+<li><a href='http://shipin.people.com.cn/n1/2020/1015/c85914-31892942.html' target="_blank">每天吃一个鸡蛋心血管死亡风险降18%</a></li>
+<li><a href='http://shipin.people.com.cn/n1/2020/1015/c85914-31892943.html' target="_blank">爱看吃播的你，看的可能只是寂寞</a></li>
+<li><a href='http://shipin.people.com.cn/n1/2020/1015/c85914-31892947.html' target="_blank">坐着、躺着、散步…哪个才是饭后正确姿势</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_红木-->
+    <div class="box boxlist fr" id="20"><div id="rmw_dz_hm">
+      <h3><a href="http://ai.people.com.cn/">A I</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://ai.people.com.cn/n1/2020/1009/c422228-31885139.html" target="_blank"><img src="/NMediaFile/2020/0922/MAIN202009221053173266602052406.jpg" width="275" height="160" border="0" alt="混入时尚圈，AI释放设计师灵感&#13;"/></a><span><a href="http://ai.people.com.cn/n1/2020/1009/c422228-31885139.html" target="_blank">混入时尚圈，AI释放设计师灵感
+</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://ai.people.com.cn/n1/2020/1009/c422228-31885143.html' target="_blank">环境智能发展遭遇数据困境</a></li>
+<li><a href='http://ai.people.com.cn/n1/2020/1009/c422228-31885434.html' target="_blank">国家智能汽车监管平台启动建设</a></li>
+<li><a href='http://ai.people.com.cn/n1/2020/1009/c422228-31885437.html' target="_blank">智能时代老年人如何“乘风破浪”</a></li>
+<li><a href='http://ai.people.com.cn/n1/2020/1009/c422228-31885443.html' target="_blank">人工智能的职业替代或是多虑了</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_图说中国-->
+    <div class="box boxlist fl" id="21"><div id="rmw_dz_tszg">
+      <!--<h3><a href="http://chinapic.people.com.cn/">图说中国</a><b></b></h3>-->
+      <h3><a href="http://visual.people.cn/">人民视觉</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://vip.people.com.cn/albumsDetail?aid=1370349" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010151348126415693967171.jpg" width="275" height="160" border="0" alt="河北邯郸：爱惜粮食 从我做起"/></a><span><a href="http://vip.people.com.cn/albumsDetail?aid=1370349" target="_blank">河北邯郸：爱惜粮食 从我做起</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href="
+http://vip.people.com.cn/albumsDetail?aid=1370351" target="_blank">
+江西峡江举行就业扶贫专场招聘会</a></li><li><a href="
+http://vip.people.com.cn/albumsDetail?aid=1370343" target="_blank">
+浙江玉环：专家助力玉环特色水产养殖</a></li><li><a href="
+http://vip.people.com.cn/albumsDetail?aid=1370338" target="_blank">山东枣庄：粒粒皆辛苦 劳动来体会</a>
+</li><li><a href="
+http://vip.people.com.cn/albumsDetail?aid=1370035" target="_blank">安徽六安：人口普查进行时</a></li>
+      </ul>
+    </div></div>
+    <!--内容板块_科技-->
+    <div class="box boxlist fl ml35" id="22"><div id="rmw_dz_kj">
+      <h3><a href="http://scitech.people.com.cn/">科技</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://scitech.people.com.cn/n1/2020/1015/c1007-31892287.html" target="_blank"><img src="/NMediaFile/2020/0915/MAIN202009151450188807914783797.jpg" width="275" height="160" border="0" alt="西昌卫星发射中心开启新一轮高密度任务"/></a><span><a href="http://scitech.people.com.cn/n1/2020/1015/c1007-31892287.html" target="_blank">西昌卫星发射中心开启新一轮高密度任务</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://scitech.people.com.cn/n1/2020/1015/c1007-31892225.html' target="_blank">俄载人飞船与国际空间站顺利快速对接</a></li>
+<li><a href='http://scitech.people.com.cn/n1/2020/1015/c1007-31892286.html' target="_blank">50位青年科学家获第二届“科学探索奖”</a></li>
+<li><a href='http://scitech.people.com.cn/n1/2020/1015/c1007-31892673.html' target="_blank">大数据开启疫情防控“新道路”</a></li>
+<li><a href='http://scitech.people.com.cn/n1/2020/1015/c1007-31892575.html' target="_blank">中国数字治理竞争力背后的AI密码</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_金融-->
+    <div class="box boxlist fr" id="23"><div id="rmw_dz_jr">
+      <h3><a href="http://money.people.com.cn/">金融</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://money.people.com.cn/n1/2020/1013/c42877-31889994.html" target="_blank"><img src="/NMediaFile/2020/1014/MAIN202010140903199922605245598.jpg" width="275" height="160" border="0" alt="2021牛年金银纪念币来了！最大面额10万元"/></a><span><a href="http://money.people.com.cn/n1/2020/1013/c42877-31889994.html" target="_blank">2021牛年金银纪念币来了！最大面额10万元</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://money.people.com.cn/n1/2020/1015/c42877-31892775.html' target="_blank">专家谈三季度金融数据：“活水”效果显现</a></li>
+<li><a href='http://money.people.com.cn/n1/2020/1015/c42877-31892836.html' target="_blank">国开行去年2.19万亿元支持重点领域等</a></li>
+<li><a href='http://money.people.com.cn/n1/2020/1014/c42877-31891076.html' target="_blank">欧洲央行启动数字欧元公共咨询</a></li>
+<li><a href='http://money.people.com.cn/n1/2020/1014/c42877-31891124.html' target="_blank">扎实推进普惠金融事业高质量发展</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_公益-->
+    <div class="box boxlist fl" id="24"><div id="rmw_dz_gy">
+      <h3><a href="http://gongyi.people.com.cn/">公益</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://gongyi.people.com.cn/n1/2020/1015/c151132-31892971.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150920557733890107719.jpg" width="275" height="160" border="0" alt="少儿足球需要精心呵护"/></a><span><a href="http://gongyi.people.com.cn/n1/2020/1015/c151132-31892971.html" target="_blank">少儿足球需要精心呵护</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://gongyi.people.com.cn/n1/2020/1015/c151132-31892614.html' target="_blank">奏响佤山大地上的扶贫乐章</a></li>
+<li><a href='http://gongyi.people.com.cn/n1/2020/1015/c151132-31892618.html' target="_blank">扶贫日系列论坛举办</a></li>
+<li><a href='http://gongyi.people.com.cn/n1/2020/1015/c151132-31892970.html' target="_blank">爱心育出好村风</a></li>
+<li><a href='http://gongyi.people.com.cn/n1/2020/1015/c151132-31892974.html' target="_blank">老中减贫合作成绩显著</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_家居-->
+    <div class="box boxlist fl ml35" id="25"><div id="rmw_dz_jj">
+      <h3><a href="http://jiaju.people.com.cn/">家居</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://jiaju.people.com.cn/n1/2020/1009/c151264-31885087.html" target="_blank"><img src="/NMediaFile/2019/1122/MAIN201911220848134623836020774.jpg" width="275" height="160" border="0" alt="家装家电热有望延续至元旦"/></a><span><a href="http://jiaju.people.com.cn/n1/2020/1009/c151264-31885087.html" target="_blank">家装家电热有望延续至元旦</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://jiaju.people.com.cn/n1/2020/0921/c151264-31868735.html' target="_blank">民宿设计，再造空间之美</a></li>
+<li><a href='http://jiaju.people.com.cn/n1/2020/0917/c151264-31864677.html' target="_blank">“惊魂电梯”的安全困境</a></li>
+<li><a href='http://jiaju.people.com.cn/n1/2020/0917/c151264-31864619.html' target="_blank">73款台灯比较试验 仅12款指标良好</a></li>
+<li><a href='http://jiaju.people.com.cn/n1/2020/0814/c151264-31822254.html' target="_blank">顾家实控人顾江生被列入限制消费名单</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_灯饰
+    <div class="box boxlist fr" id="26"><div id="rmw_dz_ds">
+      <h3><a href="http://dengshi.people.com.cn/">灯饰</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://dengshi.people.com.cn/n1/2018/0511/c402603-29983995.html" target="_blank"><img src="/NMediaFile/2018/0515/MAIN201805151525473796676620251.jpg" width="275" height="160" border="0" alt="灯饰照明行业品牌论坛成功举办"/></a><span><a href="http://dengshi.people.com.cn/n1/2018/0511/c402603-29983995.html" target="_blank">灯饰照明行业品牌论坛成功举办</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://jiaju.people.com.cn/n1/2018/0510/c151264-29977845.html' target="_blank">广东省发布灯具及照明抽查结果</a></li>
+<li><a href='http://jiaju.people.com.cn/n1/2018/0430/c151416-29958501.html' target="_blank">2018年古镇镇半程马拉松公开赛开跑</a></li>
+<li><a href='http://dengshi.people.com.cn/n1/2018/0416/c402603-29927716.html' target="_blank">中山灯饰：一“证”在手  产品畅行海内外</a></li>
+<li><a href='http://dengshi.people.com.cn/n1/2018/0416/c402603-29927858.html' target="_blank">古镇积极参与香港国际春季灯饰展</a></li>
+
+      </ul>
+    </div></div>-->
+    <!--内容板块_创投-->
+    <div class="box boxlist fr" id="26"><div id="rmw_dz_ct">
+      <h3><a href="http://capital.people.com.cn/">创投</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://capital.people.com.cn/n1/2020/1014/c405954-31891795.html" target="_blank"><img src="/NMediaFile/2020/1014/MAIN202010141400005438056175749.jpg" width="275" height="160" border="0" alt="人民时评：以新业态新模式引领新型消费"/></a><span><a href="http://capital.people.com.cn/n1/2020/1014/c405954-31891795.html" target="_blank">人民时评：以新业态新模式引领新型消费</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://capital.people.com.cn/n1/2020/1015/c405954-31892653.html' target="_blank">在线教育不“下线”</a></li>
+<li><a href='http://capital.people.com.cn/n1/2020/1015/c405954-31892892.html' target="_blank">苹果入局，5G竞争白热化</a></li>
+<li><a href='http://capital.people.com.cn/n1/2020/1015/c405954-31893100.html' target="_blank">释放数字活力 共享数字红利</a></li>
+<li><a href='http://capital.people.com.cn/n1/2020/1015/c405954-31892581.html' target="_blank">“城市大脑”绘制智慧生活</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_扶贫-->
+    <div class="box boxlist fl" id="27"><div id="rmw_dz_fp">
+      <h3><a href="http://rmfp.people.com.cn/">扶贫</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://rmfp.people.com.cn/n1/2020/1014/c406725-31891227.html" target="_blank"><img src="/NMediaFile/2020/1014/MAIN202010140850487916479235685.jpg" width="275" height="160" border="0" alt="深圳助力部分对口地区脱贫"/></a><span><a href="http://rmfp.people.com.cn/n1/2020/1014/c406725-31891227.html" target="_blank">深圳助力部分对口地区脱贫</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://rmfp.people.com.cn/n1/2020/1015/c406725-31892471.html' target="_blank">老中减贫合作成绩显著</a></li>
+<li><a href='http://rmfp.people.com.cn/n1/2020/1015/c406725-31892472.html' target="_blank">“这是中国的一项伟大成就”</a></li>
+<li><a href='http://rmfp.people.com.cn/n1/2020/1015/c406725-31892492.html' target="_blank">搬得出，稳得住，能致富</a></li>
+<li><a href='http://rmfp.people.com.cn/n1/2020/1015/c406725-31892509.html' target="_blank">奏响佤山大地上的扶贫乐章</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_慕课-->
+    <div class="box boxlist fl ml35" id="28"><div id="rmw_dz_mk">
+      <h3><a href="http://mooc.people.com.cn/">慕课</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://mooc.people.com.cn/moocpc/course/detail.html?id=12" target="_blank"><img src="/NMediaFile/2020/0309/MAIN202003091518075342047785439.jpg" width="275" height="160" border="0" alt="全媒体时代新闻发言人必备素养与技能"/></a><span><a href="http://mooc.people.com.cn/moocpc/course/detail.html?id=12" target="_blank">全媒体时代新闻发言人必备素养与技能</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href="http://moocre.peopleyun.cn/People_Mooc_RE/public/index.php/index/repository/list.html?id=1071">单学刚：亲民报道也要把握尺度防范风险</a></li><li><a href="http://moocre.peopleyun.cn/People_Mooc_RE/public/index.php/index/repository/list.html?id=1035">人民网舆情公布2020年培训总课表</a></li><li><a href="http://moocre.peopleyun.cn/People_Mooc_RE/public/index.php/index/repository/list.html?id=1057">《党的建设与大数据》上线 科技赋能党建</a>
+</li><li><a href="http://mooc.people.com.cn/moocpc/course/detail.html?id=6">全国首套融媒体人才培养课程即将上线</a></li>
+      </ul>
+    </div></div>
+    <!--内容板块_产经-->
+    <div class="box boxlist fr" id="29"><div id="rmw_dz_cj">
+      <h3><a href="http://industry.people.com.cn/">产经</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://industry.people.com.cn/n1/2020/1015/c413883-31892642.html" target="_blank"><img src="/NMediaFile/2020/1015/MAIN202010150926466789307416061.jpg" width="275" height="160" border="0" alt="赶上新潮 重塑品牌"/></a><span><a href="http://industry.people.com.cn/n1/2020/1015/c413883-31892642.html" target="_blank">赶上新潮 重塑品牌</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://industry.people.com.cn/n1/2020/1015/c413883-31892638.html' target="_blank">更好参与全球经济合作发展</a></li>
+<li><a href='http://industry.people.com.cn/n1/2020/1015/c413883-31892639.html' target="_blank">善用改革思维构建新发展格局</a></li>
+<li><a href='http://industry.people.com.cn/n1/2020/1015/c413883-31892643.html' target="_blank">物流体系建设须补短板</a></li>
+<li><a href='http://industry.people.com.cn/n1/2020/1015/c413883-31892644.html' target="_blank">把经济特区办得更好、办得水平更高</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块_一带一路-->
+    <div class="box boxlist fl" id="30"><div id="rmw_dz_ydyl">
+      <h3><a href="http://ydyl.people.com.cn/">一带一路</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://ydyl.people.com.cn/n1/2020/1014/c411837-31891430.html" target="_blank"><img src="/NMediaFile/2020/1014/MAIN202010140906004581770987947.jpg" width="275" height="160" border="0" alt="海外华商迎难而上拓新路"/></a><span><a href="http://ydyl.people.com.cn/n1/2020/1014/c411837-31891430.html" target="_blank">海外华商迎难而上拓新路</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://ydyl.people.com.cn/n1/2020/1015/c411837-31892522.html' target="_blank">“丝路电商”交流对接会举行</a></li>
+<li><a href='http://ydyl.people.com.cn/n1/2020/1015/c411837-31892521.html' target="_blank">葡中经贸合作前景看好</a></li>
+<li><a href='http://ydyl.people.com.cn/n1/2020/1015/c411837-31892520.html' target="_blank">展现中韩艺术合作的活力</a></li>
+<li><a href='http://ydyl.people.com.cn/n1/2020/1014/c411837-31891149.html' target="_blank">巴西多地推进远程办公</a></li>
+
+      </ul>
+    </div></div>
+        <!--内容板块_知识产权-->
+    <div class="box boxlist fl ml35" id="32"><div id="rmw_dz_zscq">
+      <h3><a href="http://ip.people.com.cn/">知识产权</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://ip.people.com.cn/n1/2020/1015/c136655-31892902.html" target="_blank"><img src="/NMediaFile/2020/0727/MAIN202007270902456872697383764.jpg" width="275" height="160" border="0" alt="京东VS阿里&quot;双十一&quot;商标大战风波再起"/></a><span><a href="http://ip.people.com.cn/n1/2020/1015/c136655-31892902.html" target="_blank">京东VS阿里"双十一"商标大战风波再起</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://ip.people.com.cn/n1/2020/1015/c136655-31892884.html' target="_blank">“壁丽宝”商标纠纷终见分晓</a></li>
+<li><a href='http://ip.people.com.cn/n1/2020/1015/c136655-31892909.html' target="_blank">专利法修正案草案进入三审</a></li>
+<li><a href='http://ip.people.com.cn/n1/2020/1015/c136655-31892905.html' target="_blank">武汉：疫后重振 知识产权添动力</a></li>
+<li><a href='http://ip.people.com.cn/n1/2020/1015/c136655-31892992.html' target="_blank">为建设知识产权强国提供学理支持</a></li>
+
+      </ul>
+    </div></div>
+    <!--内容板块消费频道-->
+    <div class="box boxlist fr" id="33"><div id="rmw_dz_zscq">
+      <h3><a href="http://xiaofei.people.com.cn/">消费频道</a><b></b></h3>
+      <p class="bigimgstyle">
+      <a href="http://xiaofei.people.com.cn/n1/2020/1015/c425315-31893047.html" target="_blank"><img src="/NMediaFile/2020/0930/MAIN202009300817526144503372097.jpg" width="275" height="160" border="0" alt="9月份居民消费价格同比上涨1.7%"/></a><span><a href="http://xiaofei.people.com.cn/n1/2020/1015/c425315-31893047.html" target="_blank">9月份居民消费价格同比上涨1.7%</a></span>
+
+      </p>
+      <ul class="list14">
+         <li><a href='http://xiaofei.people.com.cn/n1/2020/1015/c425315-31892422.html' target="_blank">推送学习无关内容 斗鱼直播等被网信办点名</a></li>
+<li><a href='http://xiaofei.people.com.cn/n1/2020/1015/c425315-31892545.html' target="_blank">预付卡消费套路多 潜在风险不容忽视</a></li>
+<li><a href='http://xiaofei.people.com.cn/n1/2020/1015/c425315-31892443.html' target="_blank">线下市场或成跨境支付新增长点</a></li>
+<li><a href='http://xiaofei.people.com.cn/n1/2020/1015/c425315-31892523.html' target="_blank">音乐＋跨界融合带来消费新趋势</a></li>
+
+      </ul>
+    </div></div>
+    <div class="loading">
+          loading.....
+        </div>
+  </section>
+  <!--通栏广告6-->
+ <div class="banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|tonglan6&db=people&border=0&local=yes&js=ie' charset='gbk'></script></div>
+  <!--通栏板块i-->
+  <section class="w1000 cont_i">
+    <!--内容板块-->
+    <div class="box fl" id="rmw_ribao">
+      <h3><a href="http://www.people.com.cn/GB/50142/104580/index.html">人民日报</a> <a href="http://www.people.com.cn/GB/50142/420117/index.html">人民网</a></h3>
+      <p class="imgstyle"><img src="/NMediaFile/2019/1226/MAIN201912261145299809222635520.jpg" width="130" height="90" border="0" alt="    2019年12月6日，李宝善社长会见韩国江原道知事崔文洵一行。[阅读]"/>    2019年12月6日，李宝善社长会见韩国江原道知事崔文洵一行。<a href="http://www.people.com.cn/n1/2019/1206/c425745-31494543.html?from=singlemessage">[阅读]</a>
+
+      </p>
+      <ul class="list14">
+         <li><a href="http://www.people.com.cn/n1/2019/1122/c425745-31469448.html">李宝善社长会见巴基斯坦驻华大使哈什米</a>  </li><li><a href="http://media.people.com.cn/n1/2020/0906/c14677-31850881.html">人民日报全媒体亮相服贸会</a></li><li><a href="http://js.people.com.cn/n2/2020/0703/c359574-34132060.html">“大道康庄”人民网全媒体调研行在京启动</a></li><li><a href="http://edu.people.com.cn/n1/2020/0714/c1053-31782986.html">《70问解码“中国之治”》出版 </a></li><li><a href="http://culture.people.com.cn/n1/2020/0910/c1013-31856285.html">《这里是中国》获第十五届文津图书奖</a></li>
+      </ul>
+    </div>
+    <!--内容板块-->
+    <div class="box fl ml35" id="rmw_fuwu">
+         <h3><a href="http://data.people.com.cn">人民服务</a></h3>
+          <ul class="list14">
+             <li><a href="http://data.people.com.cn/rmrb" target="_blank">人民日报图文数据库</a>  <a href="http://data.people.com.cn/gov-secret.jsp" target="_blank">政务密钥</a> 
+  <a href="http://jinbao.people.cn/" target="_blank">金报电子</a>
+　 </li><li><a href="http://data.people.com.cn/pd/ldrhdbd" target="_blank">领导人活动报道集</a>   　<a href="http://data.people.com.cn/pd/rmrbyl" target="_blank">人民日报社论、言论</a>　</li><li><a href="http://data.people.com.cn/pd/sbzyl" target="_blank">省部长言论</a>　<a href="http://data.people.com.cn/pd/zdsj" target="_blank">中国共产党重大事件人物库</a>　</li><li><a href="http://data.people.com.cn/pd/zywx" target="_blank">中国共产党重要文献</a> <a href="http://data.people.com.cn/pd/zglcqhzywx" target="_blank">中共历次全会重要文献</a> 　</li><li><a href="http://data.people.com.cn/pd/gzbg" target="_blank">政府工作报告</a>　<a href="http://data.people.com.cn/pd/gjzcxx" target="_blank">国家政策信息</a>　<a href="http://data.people.com.cn/pd/rmsp" target="_blank">人民时评</a></li><li><a href="http://data.people.com.cn/pd/qgrmdbdh/index.html" target="_blank">全国人大数据库</a> <a href="http://data.people.com.cn/pd/gdzcxx" target="_blank">各地政策信息</a>　<a href="http://data.people.com.cn/pd/flfg" target="_blank">法律法规</a> </li><li><a href="http://data.people.com.cn/pd/zzxshy" target="_blank">历届全国政协文献信息库</a>　<a href="http://yjy.people.com.cn/" target="_blank">人民网研究院</a>　</li><li><a href="http://peopletech.cn/" target="_blank">人民科技</a> <a href="https://visual.people.cn/" target="_blank">人民视觉</a> <a href="http://mooc.people.com.cn/" target="_blank">人民慕课</a> <a href="http://coo.people.cn/" target="_blank">人民智作</a>　</li>
+          </ul>
+    </div>
+    <!--内容板块-->
+    <div class="box fr" id="rmw_ziliao">
+        <h3>资料</h3>
+          <ul class="list14">
+             <li><a href="http://politics.people.com.cn/GB/8198/105667/index.html">高层领导人报道集</a></li><li><a href="http://ldzl.people.com.cn/">地方领导资料库</a> <a href="http://cpc.people.com.cn/GB/64162/64168/index.html">历次党代会</a> 
+</li><li><a href="http://politics.people.com.cn/GB/8198/430710/index.html">十九届四中全会电子书</a></li><li><a href="http://lianghui.people.com.cn/2020/">2020年全国两会</a> <a href="http://world.people.com.cn/GB/9491/index.html">外交部发言人</a></li><li><a href="http://politics.people.com.cn/GB/8198/385148/index.html">中央重拳打击腐败</a> <a href="http://renshi.people.com.cn/GB/64096/index.html">人事任免</a>
+</li><li><a href="http://cpc.people.com.cn/GB/64162/126778/index.html">开国将帅名录</a> <a href="http://cpc.people.com.cn/GB/69112/73867/index.html">党史人物纪念馆</a> </li><li><a href="http://fangtan.people.com.cn/GB/431458/index.html">历年访谈汇总</a> <a href="http://www.people.com.cn/32306/432551/432623/index.html">2020两会访谈录</a></li><li><a href="http://edu.people.com.cn/GB/gaokao/">高考</a> <a href="http://edu.people.com.cn/GB/gongwuyuan/">考公务员</a> <a href="http://graphicnews.people.com.cn/">图解新闻</a></li>
+          </ul>
+    </div>
+  </section>
+  <!--通栏广告D-->
+   <div class="banner"><script type="text/javascript" src="http://pmm.people.com.cn/main/s?user=people|2016people|tailbanner&db=people&border=0&local=yes&js=ie" charset="gbk"></script></div>
+  <script type="text/javascript">
+            $(document).ready(function(){
+                var cw1 = window.innerWidth;
+                var sUserAgent = navigator.userAgent.toLowerCase();    
+                var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";    
+                var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";    
+                var bIsMidp = sUserAgent.match(/midp/i) == "midp";    
+                var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";    
+                var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";    
+                var bIsAndroid = sUserAgent.match(/android/i) == "android";    
+                var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";    
+                var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";    
+                                if (bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM ){
+                     $("body").append('<style>.links p.gn,.f_link p{font-size:62.5%;}.links p.gn{line-height:1.2em;}.links p.gn a:link,.links p.gn a:visited,.links p.gn a:hover{font-size:.8em;}.f_link p{line-height: 1.2em;}.f_link p a{font-size: .8em;}footer p{font-size:8px;}.cont_language .city_list a{font-size:8px;}</style>')
+                }  
+				if (bIsIphoneOs){
+                     $("body").append('<style>.sjd_tit p{font-size:0.8em;}</style>')
+                }  
+            })
+                
+                            
+</script>
+  <!--分站与友情链接-->
+  <section class="links clearfix">
+            <div class="clearfix">
+        <strong>国内分站</strong>
+        <p class="gn" id="rmw_guonei"><a href="http://bj.people.com.cn/" target="_blank">北京</a>
+<a href="http://tj.people.com.cn/ " target="_blank">天津</a>
+<a href="http://he.people.com.cn/" target="_blank">河北</a>
+<a href="http://sx.people.com.cn/" target="_blank">山西</a>
+<a href="http://nm.people.com.cn/" target="_blank">内蒙古</a>
+<a href="http://ln.people.com.cn/" target="_blank">辽宁</a>
+<a href="http://jl.people.com.cn/" target="_blank">吉林</a>
+<a href="http://hlj.people.com.cn/" target="_blank">黑龙江</a>
+<a href="http://sh.people.com.cn/" target="_blank">上海</a>
+<a href="http://js.people.com.cn" target="_blank">江苏</a>
+<a href="http://zj.people.com.cn/" target="_blank">浙江</a>
+<a href="http://ah.people.com.cn/" target="_blank">安徽</a>
+<a href="http://fj.people.com.cn/" target="_blank">福建</a><br/>
+<a href="http://jx.people.com.cn/" target="_blank">江西</a>
+<a href="http://sd.people.com.cn/" target="_blank">山东</a>
+<a href="http://henan.people.com.cn/" target="_blank">河南</a>
+<a href="http://hb.people.com.cn/" target="_blank">湖北</a>
+<a href="http://hn.people.com.cn/" target="_blank">湖南</a>
+<a href="http://gd.people.com.cn/" target="_blank">广东</a>
+<a href="http://gx.people.com.cn/" target="_blank">广西</a>
+<a href="http://hi.people.com.cn/" target="_blank">海南</a>
+<a href="http://cq.people.com.cn/" target="_blank">重庆</a>
+<a href="http://sc.people.com.cn/" target="_blank">四川</a>
+<a href="http://gz.people.com.cn/" target="_blank">贵州</a>
+<a href="http://yn.people.com.cn/" target="_blank">云南</a>
+<a href="http://xz.people.com.cn/" target="_blank">西藏</a>
+<a href="http://sn.people.com.cn/" target="_blank">陕西</a>
+<a href="http://gs.people.com.cn/" target="_blank">甘肃</a>
+<a href="http://qh.people.com.cn/" target="_blank">青海</a>
+<a href="http://nx.people.com.cn/" target="_blank">宁夏</a>
+<a href="http://xj.people.com.cn/" target="_blank">新疆</a>
+<a href="http://sz.people.com.cn/" target="_blank">深圳</a>
+<br/><a href="http://unn.people.com.cn/GB/422044/index.html" target="_blank">地方频道人员名单</a>
+</p>
+         <strong>全球分站</strong>
+        <p class="quan" id="rmw_quanqiu"><a href="http://japan.people.com.cn/">日本</a>
+<a href="http://usa.people.com.cn/">美国</a>
+<a href="http://uk.people.com.cn/">英国</a>
+<a href="http://ru.people.com.cn/">俄罗斯</a>
+<a href="http://korea.people.com.cn/">韩国</a>
+<br/><a href="http://australia.people.com.cn/">澳大利亚</a><a href="http://nordic.people.cn/">北欧</a></p>
+        </div>
+        <div class="f_link clearfix">
+         <strong>友情链接</strong>
+         <p><a href="http://www.zgjx.cn/">记协</a><a href="http://www.xinhuanet.com/">新华网</a><a href="http://www.china.com.cn/">中国网</a><a href="http://www.cctv.com/">央视网</a><a href="http://www.chinadaily.com.cn/">中国日报网</a><a href="http://www.cri.cn/">国际在线</a><a href="http://www.youth.cn/">中国青年网</a><a href="http://www.ce.cn/">中国经济网</a><a href="http://www.taiwan.cn/">中国台湾网</a><a href="http://www.tibet.cn/">中国西藏网</a><a href="http://www.wenming.cn/">中国文明网</a><a href="http://www.cnr.cn/">央广网</a><a href="http://www.chinanews.com/">中国新闻网</a><a href="http://www.gmw.cn/">光明网</a>
+<br/>
+<a href="http://www.gov.cn/">中国政府网</a><a href="http://www.scio.gov.cn/">国新办</a><a href="http://www.cac.gov.cn/">中国网信网</a><a href="http://www.mod.gov.cn/">国防部</a><a href="http://www.ccdi.gov.cn/">中央纪委国家监委</a><a href="http://www.idcpc.org.cn/">中联部</a><a href="http://www.scopsr.gov.cn/">中编办</a><a href="http://www.counsellor.gov.cn/">国务院参事室</a><a href="http://www.qizhiwang.org.cn/">旗帜网</a><a href="http://www.cdpf.org.cn/">残联</a><a href="http://www.mj.org.cn/">中国民主促进会</a><a href="http://www.ccgp.gov.cn/">政府采购网</a><a href="http://www.cvf.org.cn/">中国志愿服务联合会</a>
+<br/>
+<a href="http://www.legaldaily.com.cn/">法制网</a><a href="http://www.wenweipo.com/">文汇网</a><a href="http://www.chinamil.com.cn/">中国军网</a><a href="http://www.12377.cn/">互联网举报中心</a><a href="http://www.nncc626.com/">中国禁毒网</a><a href="http://www.workercn.cn/">中工网</a><a href="http://www.banyuetan.org/">半月谈</a><a href="http://www.dangjian.cn/">党建网</a><a href="http://www.cyol.com/">中青在线</a><a href="http://www.iqilu.com/">齐鲁网</a><a href="http://www.cqnews.net/">华龙网</a><a href="http://www.k618.cn/">未来网</a><a href="http://www.hebei.com.cn/">长城网</a><a href="http://www.eastday.com/">东方网</a><a href="http://www.globalpeople.com.cn/">环球人物网</a><a href="http://www.urbanchina.org/">城市网</a>
+<br/>
+<a href="http://www.qstheory.cn/">求是网</a><a href="http://www.chinaxiaokang.com/">中国小康网</a><a href="http://www.chinawriter.com.cn/">中国作家网</a><a href="http://paper.people.com.cn/zgby/">中国报业</a><a href="http://www.enorth.com.cn/">北方网</a><a href="http://www.southcn.com/">南方网</a><a href="http://www.rednet.cn/">红网</a><a href="http://www.chinatibetnews.com/">西藏新闻网</a><a href="http://www.ts.cn/">天山网</a><a href="http://www.cnhubei.com/">荆楚网</a><a href="http://gov.eastday.com/qxxc/node39/index.html">浦东新闻网</a><a href="http://www.hgdaily.com.cn/">黄冈新闻网</a><a href="http://www.qianlong.com/">千龙网</a><a href="http://www.crt.com.cn/">红色旅游网</a><a href="http://www.rmwl.cn">人民文旅网</a></p>
+        </div>
+  </section>
+  <!--版权-->
+    <footer class="clearfix">
+        <p><a href="http://www.people.com.cn/GB/1018/22259/index.html" target="_blank">人民日报社概况</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/GB/50142/420117/index.html" target="_blank">关于人民网</a>
+<span class="xian">|</span>
+<a href="http://hr.peopledaily.com.cn/" target="_blank">报社招聘</a>
+<span class="xian">|</span>
+<a href="http://job.people.com.cn/" target="_blank">招聘英才</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/GB/208743/403202/index.html" target="_blank">广告服务</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/GB/208743/403202/403212/index.html" target="_blank">合作加盟</a>
+<span class="xian">|</span>
+<a href="http://gonggao.people.com.cn/" target="_blank">供稿服务</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/n/2013/1227/c373005-23961344.html" target="_blank">网站声明</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/n1/2019/0308/c420117-30965009.html" target="_blank">网站律师</a>
+<span class="xian">|</span>
+<a href="http://sso.people.com.cn/resource/html/userInforPro.html" target="_blank">信息保护</a>
+<span class="xian">|</span>
+<a href="http://kf.people.com.cn/" target="_blank">呼叫中心</a>
+<span class="xian">|</span>
+<a href="http://english.peopledaily.com.cn/" target="_blank">ENGLISH</a>
+        </p>
+        <p><!--镜像:<a href="http://www.people.com.cn/" target="_blank">日本</a>&nbsp;&nbsp;<a href="http://www.peopledaily.edu.cn/" target="_blank">教育网</a>&nbsp;&nbsp;<a href="http://www.peopledaily.ac.cn/">科技网</a>&nbsp;&nbsp;呼叫热线：4008-100-300&nbsp;&nbsp;-->服务邮箱：<a href="mailto:kf@people.cn" target="_blank">kf@people.cn</a>&nbsp;&nbsp;违法和不良信息举报电话：010-65363263&nbsp;&nbsp;举报邮箱：<a href="mailto:jubao@people.cn" target="_blank">jubao@people.cn</a></p>
+        <p><a href="http://www.people.com.cn/img/2014xuke/2018hlwxw.html" target="_blank">互联网新闻信息服务许可证10120170001</a>
+		<span class="xian">|</span>
+		<a href="http://www.people.com.cn/img/2014xuke/2018zzdxxkz.html" target="_blank">增值电信业务经营许可证B1-20060139</a>
+		</p>
+<p>
+<a href="http://www.people.com.cn/img/2019peopleindex/html/gbds2019.html" target="_blank">广播电视节目制作经营许可证（广媒）字第172号</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/img/2014xuke/2019ypxxfwzg.html" target="_blank">互联网药品信息服务资格证书（京）-非经营性-2016-0098</a>
+</p>
+<p><a href="http://www.people.com.cn/img/2011zzzs/2018xxwlcb.htm" target="_blank">信息网络传播视听节目许可证0104065</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/img/2014xuke/2018wlwh.html" target="_blank">网络文化经营许可证 京网文[2017]9786-1126号</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/img/2014xuke/2018wlcb.html" target="_blank">网络出版服务许可证（京）字258号</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/img/2014xuke/2018icp.html" target="_blank">京ICP证000006号</a>
+<span class="xian">|</span>
+<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000008" target="_blank">京公网安备11000002000008号</a>
+		</p>
+        <p class="mt30">人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />Copyright &copy; 1997-2020 by www.people.com.cn. all rights reserved</p>
+		<p class="mt30">
+        	<a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=0102000101300040" target="_blank"><img src="http://www.people.com.cn/img/2016people/images/copy_icon1.jpg" /></a>　　
+            <a href="https://ss.knet.cn/verifyseal.dll?sn=e12050911010020686307708&ct=df&a=1&pa=980951" target="_blank"><img src="http://www.people.com.cn/img/2016people/images/copy_icon2.jpg" /></a>　　
+            <a href="http://si.trustutn.org/info?sn=470170320027574551118&certType=1" target="_blank"><img src="http://www.people.com.cn/img/2016people/images/copy_icon3.jpg" /></a>　　
+			<a href="http://www.itrust.org.cn/home/index/itrust_certifi/wm/2710933198.html" target="_blank"><img src="http://www.people.com.cn/img/2016people/images/copy_icon4.jpg" /></a>
+        </p>
+    </footer>
+   
+<script type="text/javascript">
+$(document).ready(function(){
+var ip_cookie_ip ='';
+	if(ip_cookie_ip ==''||ip_cookie_ip==undefined){
+		var srcjs = $('<script/>').attr('src', 'http://apps.people.com.cn/ip/newsLocation.do');
+	$(document.body).append(srcjs)
+	}
+})
+//城市ip判断
+
+try{
+document.domain="people.com.cn";
+} catch(e){}
+
+function trim(str){  //删除左右两端的空格 
+	return str.replace(/(^\s*)|(\s*$)/g, ""); 
+}
+//设置Cookie相应名值对中值的函数 function getCookieVal(offset)
+function getCookieVal(offset) {
+		var endstr = document.cookie.indexOf(";",offset);
+		if (endstr == -1) endstr = document.cookie.length;
+		return unescape(document.cookie.substring(offset,endstr));
+}
+//设置Cookie函数 function GetCookie(name)
+function GetCookie(name){
+		var arg = name + '=';
+		var alen = arg.length;
+		var clen = document.cookie.length;
+		var i = 0;
+		var flag = ''
+		while (i<clen) {
+			var j = i + alen;
+			if (document.cookie.substring(i,j) == arg) flag = getCookieVal(j);
+			i = document.cookie.indexOf(" ",i) + 1;
+			if (i == 0) break;
+		}
+		return flag;
+}
+
+try{
+document.domain="people.com.cn";
+} catch(e){}
+
+function trim(str){  //删除左右两端的空格 
+	return str.replace(/(^\s*)|(\s*$)/g, ""); 
+}
+//Cookie日期修正函数 function FixCookieDate(date)
+function FixCookieDate(date){
+	var base = new Date(0);
+	var skew = base.getTime();
+	if (skew > 0)date.setTime(date.getTime() - skew);
+}
+//设置Cookie函数 function SetCookie(name,value,expires,path,domain,secure)
+function SetCookie(name,value,expires,path,domain,secure){
+	document.cookie = name + "=" + escape(value) + ((expires)? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+}
+//设置Cookie相应名值对中值的函数 function getCookieVal(offset)
+function getCookieVal(offset) {
+		var endstr = document.cookie.indexOf(";",offset);
+		if (endstr == -1) endstr = document.cookie.length;
+		return unescape(document.cookie.substring(offset,endstr));
+}
+//设置Cookie函数 function GetCookie(name)
+function GetCookie(name){
+		var arg = name + '=';
+		var alen = arg.length;
+		var clen = document.cookie.length;
+		var i = 0;
+		var flag = ''
+		while (i<clen) {
+			var j = i + alen;
+			if (document.cookie.substring(i,j) == arg) flag = getCookieVal(j);
+			i = document.cookie.indexOf(" ",i) + 1;
+			if (i == 0) break;
+		}
+		return flag;
+}
+String.prototype.trim = function(){
+   return this.replace(/(^\s*)|(\s*$)/g, "");
+}
+var city_id = trim(GetCookie("_people_ip_new_code"));
+//alert(city_id);
+if(city_id == '' || city_id ==undefined || city_id==""){
+	city_id = "00000110";
+}
+//document.write(city_id);
+
+var dfip_html = $("#dfip").html();
+//dfip_html = dfip_html.replace(/\"/g,'\\"')
+//console.log(dfip_html);
+
+  //写入html标题
+  		if(city_id == "350000"){
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://fj.people.com.cn/GB/376865/index.html' ></iframe>");
+			 }			 
+		else if(city_id == "230000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://ah.people.com.cn/GB/376858/index.html' ></iframe>");
+		}
+		else if(city_id == "310000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://zj.people.com.cn/GB/376886/index.html' ></iframe>");
+		}
+		else if(city_id == "570000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://hi.people.com.cn/GB/376859/index.html' ></iframe>");
+		}
+		else if(city_id == "510000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://gd.people.com.cn/GB/376870/index.html' ></iframe>");
+		}
+		else if(city_id == "330000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://jx.people.com.cn/GB/376873/index.html' ></iframe>");
+		}
+		else if(city_id == "530000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://gx.people.com.cn/GB/376891/index.html' ></iframe>");
+		}
+		else if(city_id == "550000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://gz.people.com.cn/GB/376860/index.html' ></iframe>");
+		}
+		else if(city_id == "050000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://he.people.com.cn/GB/376881/index.html' ></iframe>");
+		}
+		else if(city_id == "710000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://sn.people.com.cn/GB/376868/index.html' ></iframe>");
+		}
+		else if(city_id == "830000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://xj.people.com.cn/GB/376877/index.html' ></iframe>");
+		}
+		else if(city_id == "410000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://hn.people.com.cn/GB/376862/index.html' ></iframe>");
+		}
+		else if(city_id == "430000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://hb.people.com.cn/GB/376876/index.html' ></iframe>");
+		}		
+		else if(city_id == "810000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://qh.people.com.cn/GB/376885/index.html' ></iframe>");
+		}		
+		else if(city_id == "150000")
+		{;
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://hlj.people.com.cn/GB/376883/index.html' ></iframe>");
+		}		
+		else if(city_id == "610000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://sc.people.com.cn/GB/376872/index.html'></iframe>");
+		}		
+		else if(city_id == "200000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://sh.people.com.cn/GB/376884/index.html'></iframe>");
+		}
+		else if(city_id == "250000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://sd.people.com.cn/GB/376882/index.html'></iframe>");
+		}
+		else if(city_id == "730000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://gs.people.com.cn/GB/376875/index.html' ></iframe>");
+		}
+		else if(city_id == "750000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://nx.people.com.cn/GB/376878/index.html' ></iframe>");
+		}
+		else if(city_id == "010000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://nm.people.com.cn/GB/376871/index.html' ></iframe>");
+		}
+		else if(city_id == "030000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://sx.people.com.cn/GB/352665/index.html' ></iframe>");
+		}
+		//else if(city_id == "255000")
+		//{
+		//	$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://zb.people.com.cn/GB/350103/index.html' ></iframe>");
+		//}
+		else if(city_id == "130000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://jl.people.com.cn/GB/376903/index.html' ></iframe>");
+		}
+		else if(city_id == "650000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://yn.people.com.cn/GB/376874/index.html' ></iframe>");
+		}
+		else if(city_id == "110000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://ln.people.com.cn/GB/376869/index.html' ></iframe>");
+		}
+		else if(city_id == "450000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://henan.people.com.cn/GB/376863/index.html' ></iframe>");
+		}
+		else if(city_id == "210000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://js.people.com.cn/GB/376879/index.html' ></iframe>");
+		}
+		else if(city_id == "518000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://sz.people.com.cn/GB/376864/index.html' ></iframe>");
+		}
+		else if(city_id == "400000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://cq.people.com.cn/GB/376866/index.html' ></iframe>");
+		}
+		else if(city_id == "300000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://tj.people.com.cn/GB/376880/index.html' ></iframe>");
+		}
+		else if(city_id == "850000")
+		{
+			$("#dfip").html("<iframe marginheight='0' marginwidth='0' frameborder='0' width='310' height='76' scrolling='no' src='http://xz.people.com.cn/GB/376894/index.html' ></iframe>");
+		}
+		else{
+			$("#dfip").html(dfip_html);
+		}
+</script>
+<script>
+//SSO Loader [v 1.1.0]
+(function(){var s="http://sso.people.com.cn/resource/js/sso.js";function e(b){return function(){RMWSSO.cache.push({n:b,a:arguments})}}function d(b,c){var a=document.createElement("script");a.type="text/javascript";a.onreadystatechange=a.onload=function(){this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(c&&c(),a.onreadystatechange=a.onload=null,a.parentNode.removeChild(a))};a.src=b;document.getElementsByTagName("head")[0].appendChild(a)}if(!window.RMWSSO){var c=["login","logout","getUsername","getUserData","crossDomainLogin","ready"];window.RMWSSO={type:"loader",cache:[]};for(var b=0;b<c.length;b++)RMWSSO[c[b]]=e(c[b]);var f=setTimeout(function(){d(s)},5E3);d(s,function(){clearTimeout(f)})}})();
+</script>
+<script type="text/javascript">
+RMWSSO.getUserData(function(user){
+	if(!user.userId){
+		$("#txz_dlq").show();
+		$("#txz_dlh").hide();
+		//alert('未登录');
+	}else{
+		$("#txz_dlq").hide();
+		$("#txz_dlh").show();
+		var loginMsg = "<a href='http://sso.people.com.cn/login' target='_blank'>"+user.nickname+"</a>，欢迎您";
+		$("#loginMsg").html(loginMsg);
+		//alert('当前登录用户：' + user.nickname);
+	}
+});
+
+function loginSuccess(){
+	$("#txz_dlq").hide();
+	$("#txz_dlh").show();
+	RMWSSO.getUserData(function(user){
+		if(user.userId){ 
+		var loginMsg = "<a href='http://sso.people.com.cn/login' target='_blank'>"+user.nickname+"</a>，欢迎您";
+		$("#loginMsg").html(loginMsg);
+		}
+	})
+	$("#p_login").css({"display":"none"})
+}
+
+$("#logout").bind('click', function(event){
+	RMWSSO.logout(function(){
+		//alert('退出成功！')
+		$("#txz_dlq").show();
+		$("#txz_dlh").hide();
+	});
+})
+
+</script>
+<!--
+<link href="http://news.chinaso.com/static/css/link4.css" type="text/css" rel="stylesheet"/>
+<script src="http://news.chinaso.com/static/js/link4.js" charset="utf-8" type="text/javascript"></script>
+<style type="text/css">
+#chinaso_search{margin-top:2px; width:220px;}
+#chinaso_search .China_search_24_new{height:26px;}
+#chinaso_search .China_search_24_new .logo{width:55px;height:24px;background-size:cover;vertical-align:middle;}
+#chinaso_search #searchHotWord{height:20px;line-height:20px;}
+.keywords-box{left:54px;width:auto;}
+</style>
+-->
+<!--频道定制-->
+    <div class="box_nav_all">
+    <div class="box_nav_list">
+          <h4>选择替换当前频道<span class="close" id="close"></span></h4>
+          <div class="box_nav_c">
+          <span sid="1">时政</span><span sid="2">社会</span><span sid="3">教育</span><span sid="4">科普</span><span sid="5">军事</span><span sid="6">舆情</span><span sid="7">文化</span><span sid="8">传媒</span><span sid="9">环保</span><span sid="10">娱乐</span><span sid="11">旅游</span><span sid="12">书画</span><span sid="13">时尚</span><span sid="14">汽车</span><span sid="15">房产</span><span sid="16">能源</span><span sid="17">IT</span><span sid="18">食品</span><span sid="19">健康</span><!--<span sid="20">AI</span>--><span sid="21">人民视觉</span><span sid="22">科技</span><span sid="23">金融</span><span sid="24">公益</span><!--<span sid="25">家居</span><span sid="26">灯饰</span>--><span sid="26">创投</span><span sid="28">慕课</span><span sid="29">产经</span><!--<span sid="30">一带一路</span>--><span sid="27">扶贫</span><span sid="31">美丽乡村</span><span sid="32">知识产权</span><span sid="33">消费</span>
+          </div>
+          <!--<p class="fh">恢复默认设置</p>-->
+    </div>
+    </div>
+<!--结束频道定制--> 
+<!--二维码与返回顶部-->
+    <div class="replay">
+      <!--<span>
+       <img src="/img/2016people/images/ewm_wx.jpg" alt="">
+       人民网微信公众号
+      </span>
+      <span>
+       <img src="/img/2016people/images/ewm_m.jpg" alt="">
+       手机人民网
+      </span>-->
+      <img src="/img/2016people/images/replay_tophover.jpg" class="replay_top" alt="">
+    </div>
+    
+
+          <object name="cookieFlash" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="0" height="1" id="testFC" title="testFC" align="middle">
+             <param name="allowScriptAccess" value="always" />
+             <param name="movie" value="cookie.swf">
+             <embed src="/img/2016people/libs/cookie.swf" name="cookieFlash" allowScriptAccess="always" type="application/x-shockwave-flash" width="0" height="1"></embed>
+         </object>
+         <script src="/img/2016people/libs/rect.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	var callback = function() {
+		var $newsList = $(".cai");
+	    if($newsRecommender.displayNews.length!=0){
+		$newsList.empty();
+	    }
+		$.each($newsRecommender.displayNews, function(index, news) {
+			var title = news.title;
+			if (title.length > 19) {
+				title = title.substr(0,18) +"...";
+			}
+			$newsList.append('<li><a target="_blank"></a></li>').find("a").last().attr({href: news.newsLink+'?form=rect', title: news.title }).text(title);
+	  		//$newsList.append('<li><a href="'+ news.newsLink +'" target="_blank">'+ news.title +'</a></li>');
+	  	});
+	};
+	
+	var $newsRecommender = newsRecommender = new NewsRecommender();
+	$newsRecommender.initialize(callback);
+
+});
+</script>
+<script type='text/javascript' language="JavaScript">
+	if (window.screen.width > 1280){
+		document.write("<s"+"cript type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|duilian&db=people&border=0&local=yes&js=ie' charset='gbk'></script"+">");
+	}
+</script>
+
+<script type="text/javascript" src="http://pmm.people.com.cn/main/s?user=people|2016people|beitou&db=people&border=0&local=yes&js=ie" charset="gbk"></script>
+<script type="text/javascript" src="http://pmm.people.com.cn/main/s?user=people|2016people|fuceng&db=people&border=0&local=yes&js=ie" charset="gbk"></script>
+
+<script type='text/javascript' language="JavaScript">
+	if (window.screen.width > 1024){
+		document.write("<s"+"cript type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016people|kualang&db=people&border=0&local=yes&js=ie' charset='gbk'></script"+">");
+	}
+</script>
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+<!--无障碍
+<script defer async type="text/javascript" src="http://www.people.com.cn/wza/assist.js?sid=2716&pos=left"></script>-->
+<script src="http://tv.people.com.cn/img/player/v.js"></script>
+</body>
+</html>

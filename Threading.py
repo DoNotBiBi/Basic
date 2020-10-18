@@ -9,6 +9,9 @@
 
 import threading
 import time
+import queue
+import subprocess
+import sys
 
 exitFlag = 0
 
@@ -27,16 +30,18 @@ class myThread(threading.Thread):
         print("退出线程：" + self.name)
 
 
-# # 创建新线程
-# thread1 = myThread(1, "Thread-1", 1)
-# thread2 = myThread(2, "Thread-2", 2)
-#
-# # 开启新线程
-# thread1.start()
-# thread2.start()
-# thread1.join()
-# thread2.join()
-# print ("退出主线程")
+def test_Thread():
+    # 创建新线程
+    thread1 = myThread(1, "Thread-1", 1)
+    thread2 = myThread(2, "Thread-2", 2)
+
+    # 开启新线程
+    thread1.start()
+    thread2.start()
+    thread1.join()
+    thread2.join()
+    print("退出主线程")
+
 
 class myThread2(threading.Thread):
     def __init__(self, threadID, name, counter):
@@ -55,24 +60,26 @@ class myThread2(threading.Thread):
         threadLock.release()
 
 
-# threads = []
-#
-# # 创建新线程
-# thread1 = myThread2(1, "Thread-1", 1)
-# thread2 = myThread2(2, "Thread-2", 2)
-#
-# # 开启新线程
-# thread1.start()
-# thread2.start()
-#
-# # 添加线程到线程列表
-# threads.append(thread1)
-# threads.append(thread2)
-#
-# # 等待所有线程完成
-# for t in threads:
-#     t.join()
-# print ("退出主线程")
+def test_Thread2():
+    threads = []
+
+    # 创建新线程
+    thread1 = myThread2(1, "Thread-1", 1)
+    thread2 = myThread2(2, "Thread-2", 2)
+
+    # 开启新线程
+    thread1.start()
+    thread2.start()
+
+    # 添加线程到线程列表
+    threads.append(thread1)
+    threads.append(thread2)
+
+    # 等待所有线程完成
+    for t in threads:
+        t.join()
+    print("退出主线程")
+
 
 # 线程优先级队列 Queue
 # Queue.qsize() 返回队列的大小
@@ -98,7 +105,7 @@ class myThread3(threading.Thread):
         print("退出线程：" + self.name)
 
 
-def process_data(threadName, q,queueLock,workQueue):
+def process_data(threadName, q, queueLock, workQueue):
     while not exitFlag:
         queueLock.acquire()
         if not workQueue.empty():
@@ -109,37 +116,40 @@ def process_data(threadName, q,queueLock,workQueue):
             queueLock.release()
         time.sleep(1)
 
-# threadList = ["Thread-1", "Thread-2", "Thread-3"]
-# nameList = ["One", "Two", "Three", "Four", "Five"]
-# queueLock = threading.Lock()
-# workQueue = queue.Queue(10)
-# threads = []
-# threadID = 1
 
-# # 创建新线程
-# for tName in threadList:
-#     thread = myThread3(threadID, tName, workQueue)
-#     thread.start()
-#     threads.append(thread)
-#     threadID += 1
-#
-# # 填充队列
-# queueLock.acquire()
-# for word in nameList:
-#     workQueue.put(word)
-# queueLock.release()
-#
-# # 等待队列清空
-# while not workQueue.empty():
-#     pass
-#
-# # 通知线程是时候退出
-# exitFlag = 1
-#
-# # 等待所有线程完成
-# for t in threads:
-#     t.join()
-# print("退出主线程")
+def test_Thread3():
+    threadList = ["Thread-1", "Thread-2", "Thread-3"]
+    nameList = ["One", "Two", "Three", "Four", "Five"]
+    queueLock = threading.Lock()
+    workQueue = queue.Queue(10)
+    threads = []
+    threadID = 1
+
+    # 创建新线程
+    for tName in threadList:
+        thread = myThread3(threadID, tName, workQueue)
+        thread.start()
+        threads.append(thread)
+        threadID += 1
+
+    # 填充队列
+    queueLock.acquire()
+    for word in nameList:
+        workQueue.put(word)
+    queueLock.release()
+
+    # 等待队列清空
+    while not workQueue.empty():
+        pass
+
+    # 通知线程是时候退出
+    exitFlag = 1
+
+    # 等待所有线程完成
+    for t in threads:
+        t.join()
+    print("退出主线程")
+
 
 def print_time(threadName, delay, counter):
     while counter:
@@ -148,3 +158,35 @@ def print_time(threadName, delay, counter):
         time.sleep(delay)
         print("%s: %s" % (threadName, time.ctime(time.time())))
         counter -= 1
+
+
+def test_Threading():
+    # args  为必须参数 kargs为可选参数
+    threadObj = threading.Thread(target=print, args=['hello', 'wangkang', 'nihao'], kwargs={'sep': '&'})
+    threadObj.start()
+
+
+def test_subprocess():
+    # opencal = subprocess.Popen('c:\\Windows\\System32\\calc.exe')
+    # if opencal.wait() != 0:
+    #     print('已经开始运行了')
+    # if opencal.poll():
+    #     print('没有运行')
+    # 1，subprocess.Popen('脚本/shell', shell=True)  # 无阻塞并行
+    # 2，subprocess.call('脚本/shell', shell=True)  # 等子程序结束再继续
+    # 运行其他文件
+    # openTxt = subprocess.Popen(['D:\\Microsoft VS Code\\Code.exe', 'test.txt']) # 使用指定的程序进行打开文件
+    # openTxt = subprocess.Popen(['start', 'test.txt'], shell=True)  # 使用默认的程序进行打开文件
+    try:
+        openPython = subprocess.Popen(['D:\\Python\Python37\\python.exe', 'C:\\Users\\wangkang\\Desktop\\hello.py'],
+                                      stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        # openPythons=subprocess.call('python C:\\Users\\wangkang\\Desktop\\hello.py')
+        result = str(openPython.stdout.readline(), encoding='UTF-8')
+        print(result)
+        # print(openPython.stderr.read())
+    except:
+        print('运行失败')
+
+
+def open_music():
+    openPython = subprocess.Popen(['C:\\Users\\wangkang\\Music\\朴树 - 平凡之路.mp3'], shell=True)
