@@ -13,7 +13,7 @@ def stmp_test():
     mail_pass = "jtarkjsyjqjibjic"  # 口令
 
     sender = '341776450@qq.com'
-    receivers = ['wk_ang@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
+    receivers = ['876677504@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
 
     message = MIMEText('傻逼的何清', 'plain', 'utf-8')
 
