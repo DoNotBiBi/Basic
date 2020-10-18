@@ -42,3 +42,11 @@ def test_MoustClick():
     #     pyautogui.dragRel(0, -distance, duration=0.2)
     pyautogui.scroll(100)
 
+def Get_ScreenShot():
+    im=pyautogui.screenshot()
+    print(im.getpixel((300,300)))
+    # 判断颜色是否匹配
+    if pyautogui.pixelMatchesColor(300,300,(0,173,249)):
+        print('yes')
+
+
