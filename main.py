@@ -5,6 +5,6 @@ from Threading import *
 from Time import clock_test
 
 if __name__ == '__main__':
-    Get_ScreenShot()
+    Get_ScreenShot() # 测试git
 
 
